@@ -1,0 +1,565 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201507 will be lost/reset.
+# Last config file used to build this data file was /home/pulsolaboral/tmp/awstats/awstats._wildcard_.pulsolaboral.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2028                
+POS_TIME 2712                
+POS_VISITOR 17150               
+POS_DAY 18934               
+POS_DOMAIN 3530                
+POS_LOGIN 3929                
+POS_ROBOT 4084                
+POS_WORMS 4606                
+POS_EMAILSENDER 4737                
+POS_EMAILRECEIVER 4880                
+POS_SESSION 19435               
+POS_SIDER 19635               
+POS_FILETYPES 5015                
+POS_DOWNLOADS 5235                
+POS_OS 5283                
+POS_BROWSER 5538                
+POS_SCREENSIZE 6473                
+POS_UNKNOWNREFERER 6547                
+POS_UNKNOWNREFERERBROWSER 6714                
+POS_ORIGIN 6796                
+POS_SEREFERRALS 6937                
+POS_PAGEREFS 7093                
+POS_SEARCHWORDS 14896               
+POS_KEYWORDS 15048               
+POS_MISC 2375                
+POS_ERRORS 15107               
+POS_CLUSTER 3785                
+POS_SIDER_404 15252               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150801000456 767 189562 10290111093716
+FirstTime 20150701012818
+LastTime 20150731185338
+LastUpdate 20150801080243 767 0 766 0 0
+TotalVisits 26                  
+TotalUnique 21                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 52                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 32 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 88 316 6692811
+1 4 42 1181428 86 263 5255763
+2 0 0 0 88 219 4703416
+3 3 68 1529246 88 274 6130573
+4 0 0 0 107 215 4266544
+5 0 0 0 119 428 10249082
+6 0 0 0 108 401 9354642
+7 1 1 44262 104 336 7386143
+8 3 65 2037018 111 332 6741177
+9 0 0 0 118 357 7671922
+10 24 349 8662391 126 398 9538662
+11 0 0 0 108 393 8174575
+12 14 176 6663892 133 472 10362490
+13 2 45 1694721 93 245 5508959
+14 0 1 63564 108 331 7852026
+15 6 81 2220219 91 246 5922679
+16 0 16 495867 103 330 8188248
+17 10 178 4677863 125 413 7676124
+18 5 84 2211058 134 376 9189885
+19 0 0 0 98 285 6746707
+20 0 0 0 94 284 5844727
+21 50 548 16045677 112 331 7071843
+22 1 1529 43571999 97 492 6498187
+23 5 9 321881 115 396 8114846
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+co 52 779 21852349
+il 48 2046 58407646
+ve 6 82 2265442
+ua 5 5 238716
+cl 5 55 3059332
+mx 5 119 2727637
+de 3 3 116254
+bo 2 39 993642
+ci 2 39 996651
+ec 0 1 63564
+us 0 23 636289
+pe 0 1 63564
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+googlebot 3187 79078240 20150731170209 295
+spider 2425 59451694 20150731235924 0
+bot[\s_+:,\.\;\/\\-] 1008 20546729 20150731222247 452
+unknown 256 6144 20150728174627 256
+bingpreview 232 6108511 20150730050757 0
+robot 223 2775931 20150731210423 160
+crawl 40 784008 20150721160724 20
+slurp 26 550344 20150719081708 13
+googlebot\-image 5 588244 20150726013739 0
+php 1 41710 20150730195921 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 799 17322211 0 0
+png 1455 11451399 0 0
+woff 30 1021252 0 0
+html 97 3412747 0 0
+jpg 266 45635388 0 0
+js 441 12331061 0 0
+webm 1 0 0 0
+gif 103 247028 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+winxp 110 3
+macosx6 76 1
+winlong 69 6
+ios_iphone 54 4
+linuxubuntu 30 0
+linux 449 20
+win7 1041 38
+macosx 28 1
+macosx9 267 9
+win8 246 8
+Unknown 55 1
+win8.1 491 27
+macosx8 173 9
+macosx7 103 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 46
+msie6.0 1 1
+firefox28.0 32 0
+safari7.0 23 2
+chrome44.0.2403.125 452 29
+chrome32.0.1700.72 54 2
+firefox26.0 341 5
+chrome12.0.742.91 16 2
+chrome40.0.2214.111 25 3
+chrome32.0.1700.41 29 0
+chrome31.0.1650.57 119 4
+chrome36.0.1985.125 1 0
+chrome31.0.1650.63 405 10
+safari7.0.1 24 0
+firefox24.0 44 0
+msie11 26 0
+firefox31.0 31 1
+chrome11.0.696.34 1 1
+safari8.0 54 4
+msie9.0 76 2
+safari7.1.5 16 3
+firefox27.0 60 0
+chrome10.0.648.127 1 0
+chrome32.0.1700.68 21 1
+opera12.16 26 1
+firefox21.0 1 1
+firefox29.0 36 3
+firefox38.0 79 4
+chrome41.0.2227.0 19 0
+chrome43.0.2357.132 28 1
+chrome43.0.2357.130 72 3
+chrome44.0.2403.107 14 2
+msie11.0 108 3
+safari6.0.5 25 1
+firefox33.0 25 0
+firefox25.0 135 1
+mozilla 55 1
+firefox39.0 173 11
+chrome35.0.1916.153 28 1
+firefox14.0.1 1 1
+msie10.0 69 1
+chrome43.0.2357.134 223 14
+safari6.1.1 57 2
+safari5.1.9 25 1
+firefox36.0 61 5
+safari6.1 59 1
+firefox27.3 21 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/6.0_(compatible) 20150717221947
+Mozilla/5.0_(compatible) 20150717221931
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 10 1560
+From1 0 0
+From2 9 16
+From3 35 1542
+From4 74 74
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 9 16
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 128
+http://javimitre.pulsolaboral.com/template2/stylesheets/font-awesome.min.css 3 3
+http://jcchacez.pulsolaboral.com/template4/fonts/font-awesome/css/font-awesome.css 2 2
+http://macabelenci.pulsolaboral.com/template3/fonts/font-awesome/css/font-awesome.css 2 2
+http://t.co/FzUQIPoQhv 2 2
+http://jaimemoreno.pulsolaboral.com/template3/fonts/font-awesome/css/font-awesome.css 2 2
+http://jcchacez.pulsolaboral.com/template4/rs-plugin/css/settings.css 2 8
+http://merari.pulsolaboral.com/template3/fonts/font-awesome/css/font-awesome.css 1 1
+http://luisjasso.pulsolaboral.com/template4/fonts/font-awesome/css/font-awesome.css 1 1
+http://jcchacez.pulsolaboral.com/template2/stylesheets/font-awesome.min.css 1 1
+http://gustavo.pulsolaboral.com/template3/fonts/font-awesome/css/font-awesome.css 1 1
+http://jcchacez.pulsolaboral.com/template3/fonts/font-awesome/css/font-awesome.css 1 1
+http://alejandroroa.pulsolaboral.com 1 60
+http://alejandroroa.pulsolaboral.com/template3/fonts/font-awesome/css/font-awesome.css 1 1
+http://mariefotografia.pulsolaboral.com/template4/rs-plugin/css/settings.css 1 4
+http://macabelenci.pulsolaboral.com/template3/fonts/font-awesome/css/font-awesome.min.css 1 1
+http://mariefotografia.pulsolaboral.com/template4/fonts/font-awesome/css/font-awesome.css 1 1
+http://andresdev.pulsolaboral.com/template3/fonts/font-awesome/css/font-awesome.min.css 1 1
+http://andalato.pulsolaboral.com/template3/fonts/font-awesome/css/font-awesome.min.css 1 1
+http://jcchacez.pulsolaboral.com 1 138
+http://alejandroroa.pulsolaboral.com/template3/fonts/font-awesome/css/font-awesome.min.css 1 1
+http://jaimemoreno.pulsolaboral.com/template3/fonts/font-awesome/css/font-awesome.min.css 1 1
+http://luisjasso.pulsolaboral.com/template4/rs-plugin/css/settings.css 1 4
+http://chayanne.pulsolaboral.com/template4/fonts/font-awesome/css/font-awesome.css 1 1
+http://gustavo.pulsolaboral.com 1 44
+http://chayanne.pulsolaboral.com/template4/rs-plugin/css/settings.css 1 4
+http://macabelenci.pulsolaboral.com 0 36
+http://herelss.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://jose.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://mariefotografia.pulsolaboral.com/template4/css/stylesheet.css 0 3
+http://jaimemoreno.pulsolaboral.com/template3/css/all-stylesheet.css 0 24
+http://fredalbmp.pulsolaboral.com 0 3
+http://gino.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://alx.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://merari.pulsolaboral.com/template3/css/all-stylesheet.css 0 12
+http://mariefotografia.pulsolaboral.com 0 38
+http://luis.pulsolaboral.com/template3/css/all-stylesheet.css 0 12
+http://jhonatan.pulsolaboral.com 0 1
+http://jaimemoreno.pulsolaboral.com 0 68
+http://grafickiltro.pulsolaboral.com 0 1
+http://carlos.pulsolaboral.com 0 1
+http://jcchacez.pulsolaboral.com/template4/css/stylesheet.css 0 6
+http://alejandroroa.pulsolaboral.com/template3/css/all-stylesheet.css 0 24
+http://chayanne.pulsolaboral.com 0 1
+http://julianmoreno.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://andyjr.pulsolaboral.com/template3/css/all-stylesheet.css 0 12
+http://kiltrografico.pulsolaboral.com 0 2
+http://merari.pulsolaboral.com 0 35
+http://chernandezq.pulsolaboral.com/template3/css/all-stylesheet.css 0 12
+http://ensayando.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://herelss.pulsolaboral.com 0 1
+http://chayanne.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://luisjasso.pulsolaboral.com 0 1
+http://chayanne.pulsolaboral.com 0 36
+http://merari.pulsolaboral.com/template3/rs-plugin/css/settings.css 0 3
+http://javimitre.pulsolaboral.com 0 17
+http://grafickiltro.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://gufac.pulsolaboral.com 0 5
+http://macabelenci.pulsolaboral.com/template3/css/all-stylesheet.css 0 24
+http://nsantelices.pulsolaboral.com 0 1
+http://juliguerrero.pulsolaboral.com 0 23
+http://juliguerrero.pulsolaboral.com 0 58
+http://jcchacez.pulsolaboral.com/template1/css/style.css 0 10
+http://macabelenci.pulsolaboral.com 0 58
+http://jkevin.pulsolaboral.com 0 5
+http://ensayando.pulsolaboral.com 0 1
+http://luisjasso.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://douglasuriel.pulsolaboral.com 0 3
+http://jasmo2.pulsolaboral.com/template1/css/style.css 0 11
+http://empresasunidasdeamerica.pulsolaboral.com 0 1
+http://s0c5.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://andresdev.pulsolaboral.com 0 22
+http://carlos.pulsolaboral.com/template3/css/all-stylesheet.css 0 12
+http://hdjk.pulsolaboral.com/template1/css/style.css 0 10
+http://empresasunidasdeamerica.pulsolaboral.com/template3/css/all-stylesheet.css 0 12
+http://luis.pulsolaboral.com 0 1
+http://andresdev.pulsolaboral.com/template3/rs-plugin/css/settings.css 0 3
+http://luisrob.pulsolaboral.com/template1/css/style.css 0 11
+http://luisjasso.pulsolaboral.com 0 35
+http://gustavo.pulsolaboral.com/template3/css/all-stylesheet.css 0 12
+http://juliguerrero.pulsolaboral.com/template3/css/all-stylesheet.css 0 24
+http://andalato.pulsolaboral.com/template3/css/all-stylesheet.css 0 24
+http://jhonatan.pulsolaboral.com/template3/css/all-stylesheet.css 0 12
+http://chernandezq.pulsolaboral.com 0 1
+http://nsantelices.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://jcchacez.pulsolaboral.com/template3/rs-plugin/css/settings.css 0 3
+http://herelss.pulsolaboral.com 0 16
+http://maxalvarez.pulsolaboral.com 0 3
+http://alx.pulsolaboral.com 0 1
+http://luisrob.pulsolaboral.com 0 19
+http://javimitre.pulsolaboral.com 0 24
+http://pablo.pulsolaboral.com 0 5
+http://andalato.pulsolaboral.com/template3/rs-plugin/css/settings.css 0 3
+http://pepex.pulsolaboral.com 0 5
+http://jaimemoreno.pulsolaboral.com/template3/rs-plugin/css/settings.css 0 9
+http://jasmo2.pulsolaboral.com 0 16
+http://luisjasso.pulsolaboral.com/template4/css/stylesheet.css 0 3
+http://kiltrografico.pulsolaboral.com/template3/css/all-stylesheet.css 0 12
+http://andyjr.pulsolaboral.com 0 4
+http://macabelenci.pulsolaboral.com/template3/rs-plugin/css/settings.css 0 9
+http://wilderperozo.pulsolaboral.com 0 1
+http://gerswin.pulsolaboral.com 0 3
+http://felipeins.pulsolaboral.com 0 1
+http://mariefotografia.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://alejandroroa.pulsolaboral.com/template3/rs-plugin/css/settings.css 0 6
+http://julianmoreno.pulsolaboral.com 0 1
+http://felipeins.pulsolaboral.com/template3/css/all-stylesheet.css 0 12
+http://feullservice.pulsolaboral.com 0 1
+http://andalato.pulsolaboral.com 0 23
+http://angelly.pulsolaboral.com 0 50
+http://wilderperozo.pulsolaboral.com/template3/css/all-stylesheet.css 0 12
+http://feullservice.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://gfrank.pulsolaboral.com 0 1
+http://s0c5.pulsolaboral.com 0 1
+http://jose.pulsolaboral.com 0 1
+http://chayanne.pulsolaboral.com/template4/css/stylesheet.css 0 3
+http://juliguerrero.pulsolaboral.com/template3/fonts/font-awesome/css/font-awesome.css 1 1
+http://hugotorreslinares.pulsolaboral.com 0 1
+http://hugotorreslinares.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://juliguerrero.pulsolaboral.com/template3/fonts/font-awesome/css/font-awesome.min.css 1 1
+http://andresdev.pulsolaboral.com 0 3
+http://jaimemoreno.pulsolaboral.com 0 23
+http://hdjk.pulsolaboral.com 0 20
+http://gustavo.pulsolaboral.com/template3/rs-plugin/css/settings.css 0 3
+http://andresdev.pulsolaboral.com/template3/css/all-stylesheet.css 0 12
+http://gfrank.pulsolaboral.com/template4/css/all-stylesheet.css 0 13
+http://gino.pulsolaboral.com 0 1
+http://ricardourbinaherrera.pulsolaboral.com 1 14
+http://juliguerrero.pulsolaboral.com/template3/rs-plugin/css/settings.css 0 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 173 58128
+206 4 3034764
+500 6 25914
+301 62 23826
+404 453 1943550
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 39
+/img/texture/white-dot.png 36 http://alejandroroa.pulsolaboral.com/template3/css/stylesheet.css
+/www.linkedin.com/jose_angel_gil_amado 5 -
+/img/parallax/2.jpg 16 -
+/images/blue/search-button.png 7 -
+/template3/rs-plugin/js/'+link+' 6 -
+/img/progress.gif 31 -
+/img/logo.png 12 -
+/wordpress/wp-login.php 5 -
+/img/logo-white@2x.png 1 http://merari.pulsolaboral.com/
+/img/parallax/3.jpg 36 http://alejandroroa.pulsolaboral.com/template3/css/stylesheet.css
+/img/parallax/5.jpg 31 -
+/instagram.com/macabelenci 6 -
+/wp-admin/wp-login.php 5 -
+/admin/wp-login.php 4 -
+/template4/lightbox/'%20+%20id%20+%20' 3 -
+/img/texture/black-dot.png 58 http://alejandroroa.pulsolaboral.com/template3/css/stylesheet.css
+/wp/wp-login.php 4 -
+/section/wp-login.php 5 -
+/blog/robots.txt 5 -
+/template4/rs-plugin/js/'+link+' 3 -
+/template3/js/nav/jquery.scrollto.js 1 -
+/images/blue/plus-minus.png 7 -
+/cms/wp-login.php 5 -
+/template1/js/'+g+' 3 -
+/template3/lightbox/'%20+%20id%20+%20' 5 -
+/img/logopulso3@2x.png 1 http://merari.pulsolaboral.com/
+/javascripts/modernizr.foundation.js 20 -
+/images/blue/icons/back.png 7 -
+/images/blue/icons/user.png 14 http://angelly.pulsolaboral.com/
+/frontend/images/flags/10@2x.png 1 http://merari.pulsolaboral.com/
+/images/blue/icons/tag.png 11 http://angelly.pulsolaboral.com/
+/blog/wp-login.php 5 -
+/images/blue/icons/mail.png 7 -
+/images/blue/arrow.png 7 -
+/images/blue/icons/phone.png 7 -
+/img/parallax/1.jpg 36 http://alejandroroa.pulsolaboral.com/template3/css/stylesheet.css
+/img/parallax/4.jpg 31 -
+/site/wp-login.php 5 -
+/assets/js/ie8-responsive-file-warning.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 52
+82.80.249.167 48 520 14965342 20150717214628
+181.49.197.10 22 341 7447388 20150731185338
+186.154.14.202 16 245 7212748 20150731173133
+186.87.30.31 7 91 3416859 20150717103031
+46.119.115.165 5 5 238716 20150718230435
+186.87.96.236 4 54 2138778 20150719213716
+201.241.57.153 3 16 2016419 20150721125407
+187.192.11.178 3 68 1529246 20150725031134
+190.199.148.26 3 41 1109436 20150721150329
+190.129.127.200 2 39 993642 20150713170626
+201.208.41.145 2 40 1109436 20150701012829
+190.159.185.235 2 14 557103 20150728123801
+164.77.119.37 2 39 1042913 20150715133607
+41.189.35.80 2 39 996651 20150705084608
+181.50.104.93 1 28 427665 20150706175308
+85.25.195.134 1 1 55756 20150715014643
+187.198.55.97 1 23 800984 20150715125354
+148.251.54.44 1 1 44262 20150724071710
+201.208.42.192 1 1 46570 20150730155322
+189.208.117.20 1 28 397407 20150711125315
+144.76.201.69 1 1 16236 20150731014523
+190.156.75.70 0 5 588244 
+82.80.249.227 0 97 3577114 
+207.46.13.128 0 1 9202 
+82.80.249.219 0 89 2730988 
+157.55.39.121 0 2 100673 
+82.80.249.216 0 66 2803452 
+82.80.249.228 0 118 3137126 
+82.80.249.229 0 97 4000285 
+157.55.39.194 0 1 10946 
+207.46.13.107 0 1 5225 
+157.55.39.234 0 6 61692 
+82.80.249.225 0 71 2520254 
+207.46.13.90 0 2 10399 
+207.46.13.87 0 5 321616 
+82.80.249.220 0 68 2070612 
+82.80.249.218 0 81 1614557 
+82.80.249.221 0 126 3155398 
+190.237.41.174 0 1 63564 
+186.155.230.170 0 1 63564 
+82.80.249.226 0 83 2011830 
+82.80.249.215 0 77 1273629 
+82.80.249.223 0 84 1745441 
+157.55.39.239 0 4 107334 
+82.80.249.224 0 76 3559264 
+82.80.249.178 0 86 2163686 
+82.80.249.177 0 78 2854834 
+82.80.249.222 0 77 979174 
+82.80.249.217 0 82 1352429 
+157.55.39.96 0 1 9202 
+82.80.244.57 0 70 1892231 
+191.102.120.141 0 1 63564 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20150701 3 66 2149803 2
+20150702 0 1 63564 0
+20150703 1 1 29022 1
+20150704 0 7 140422 0
+20150705 2 39 996651 1
+20150706 1 28 427665 1
+20150710 0 16 495867 0
+20150711 1 28 397407 1
+20150713 2 44 1581886 1
+20150715 4 63 1899653 3
+20150717 55 2137 61824505 2
+20150718 5 5 238716 1
+20150719 2 27 1069389 1
+20150721 6 57 3125855 2
+20150724 1 2 107826 1
+20150725 3 68 1529246 1
+20150728 2 14 557103 1
+20150730 1 2 110134 1
+20150731 39 587 14676372 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 2
+30s-2mn 1
+2mn-5mn 1
+15mn-30mn 2
+0s-30s 19
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 97 3412747 26 14
+/template3/fonts/font-awesome/fonts/fontawesome-webfontba72.woff 15 666480 0 10
+/template4/fonts/font-awesome/fonts/fontawesome-webfontba72.woff 5 177728 0 0
+/template4/rs-plugin/font/revicons90c6.woff 5 30144 0 1
+/template2/font/fontawesome-webfont.woff 5 146900 0 1
+/template4/video/back.webm 1 0 0 0
+END_SIDER

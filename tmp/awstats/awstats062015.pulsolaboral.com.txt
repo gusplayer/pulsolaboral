@@ -1,0 +1,627 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201506 will be lost/reset.
+# Last config file used to build this data file was /home/pulsolaboral/tmp/awstats/awstats.pulsolaboral.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2700                
+POS_VISITOR 10852               
+POS_DAY 17309               
+POS_DOMAIN 3575                
+POS_LOGIN 4309                
+POS_ROBOT 4464                
+POS_WORMS 5049                
+POS_EMAILSENDER 5180                
+POS_EMAILRECEIVER 5323                
+POS_SESSION 18128               
+POS_SIDER 18320               
+POS_FILETYPES 5458                
+POS_DOWNLOADS 5762                
+POS_OS 5810                
+POS_BROWSER 6075                
+POS_SCREENSIZE 7013                
+POS_UNKNOWNREFERER 7087                
+POS_UNKNOWNREFERERBROWSER 7558                
+POS_ORIGIN 7726                
+POS_SEREFERRALS 7867                
+POS_PAGEREFS 8022                
+POS_SEARCHWORDS 8626                
+POS_KEYWORDS 8830                
+POS_MISC 2363                
+POS_ERRORS 8943                
+POS_CLUSTER 4165                
+POS_SIDER_404 9093                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150701000046 152 35065 12157064990041
+FirstTime 20150601000301
+LastTime 20150630203013
+LastUpdate 20150701080123 152 0 151 0 0
+TotalVisits 205                 
+TotalUnique 152                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 158                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 64 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 94 8139565 58 71 311053
+1 21 82 6445710 45 63 1904904
+2 19 56 2919026 97 124 979380
+3 11 20 1035849 114 123 768334
+4 4 16 1176182 26 35 159087
+5 5 17 1184464 29 44 986180
+6 19 31 1300412 33 47 158808
+7 31 31 414589 55 115 1708255
+8 14 62 4688164 32 38 330610
+9 52 271 13797845 51 98 3899170
+10 56 284 15300231 66 99 7249842
+11 95 259 16568060 136 163 3359814
+12 36 280 20753956 31 70 3447946
+13 59 314 19435320 30 61 6759172
+14 19 109 6678160 82 114 2282655
+15 30 161 12094029 63 119 7625008
+16 22 117 8353501 61 92 4063075
+17 53 162 11048767 110 138 3628416
+18 37 109 7164758 35 57 1075188
+19 15 68 4580188 31 41 154170
+20 21 83 5822472 49 96 3316206
+21 4 4 33128 27 41 182785
+22 11 46 3670230 98 136 2421002
+23 38 239 13690924 47 81 4868775
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 33
+co 154 1025 70956051
+us 105 187 8219083
+gt 79 341 20870428
+br 69 339 26128636
+ru 57 57 472074
+pe 45 289 12602024
+zz 28 28 231896
+it 24 120 9343200
+sv 19 97 9367419
+cn 14 14 115948
+ca 13 43 4924636
+mx 11 101 4511496
+ve 8 45 3662443
+ua 6 6 49692
+pt 6 30 2335800
+cz 6 6 190961
+ph 5 28 1627469
+tr 4 25 1227126
+es 4 16 1176182
+fr 4 4 33128
+jp 3 15 1167900
+in 3 15 1167900
+ec 3 15 1167900
+ie 3 15 1167900
+be 3 15 1167900
+lv 2 2 16564
+kz 1 1 8282
+id 1 1 8282
+lt 2 2 16564
+de 1 1 8282
+au 3 15 1167900
+vn 2 2 16564
+dz 3 15 1167900
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bot[\s_+:,\.\;\/\\-] 411 5646067 20150630225816 159
+googlebot 294 7416727 20150630235916 60
+php 150 535123 20150630204918 0
+spider 103 853046 20150630140416 0
+robot 33 267134 20150630050806 14
+unknown 15 360 20150630014237 15
+crawl 9 58022 20150626144247 2
+ia_archiver 6 34766 20150628152803 2
+no_user_agent 3 24846 20150623232006 0
+googlebot\-image 3 1471067 20150629164227 0
+netcraft 2 16564 20150609034656 0
+msnbot\-media 1 1522935 20150611090430 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 247 18997416 0 0
+png 1261 55520590 0 0
+ttf 142 8372752 0 0
+woff 24 1508168 0 0
+woff2 39 2157640 0 0
+php 1 8282 0 0
+html 283 2344132 0 0
+js 426 29460945 0 0
+jpg 288 55353910 0 0
+webm 7 4600386 0 0
+Unknown 195 7968721 0 0
+gif 2 2588 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+linuxandroid 156 38
+blackberry 1 1
+winxp 19 11
+winlong 2 2
+ios_iphone 18 3
+java 4 4
+winnt 1 1
+linux 254 69
+win7 1508 355
+macosx 255 29
+win8 250 41
+macosx9 1 1
+win8.1 384 75
+Unknown 61 60
+macosx7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 45
+firefox28.0 13 13
+msie6.0 9 9
+firefox26.0 1 1
+chrome43.0.2357.124 572 100
+chrome43.0.2357.125 72 9
+chrome40.0.2214.111 56 56
+chrome39.0.2171.95 6 6
+chrome38.0.2125.101 24 12
+chrome36.0.1985.125 2 2
+lynx 2 2
+firefox34.0 1 1
+alcatel 16 3
+chrome43.0.2357.81 234 40
+chrome42.0.2311.90 86 10
+chrome19.0.1055.1 1 1
+chrome27.0.1453 16 3
+chrome43.0.2357.93 104 29
+safari8.0 2 0
+Unknown 34 34
+firefox11.0 8 0
+chrome11.0.697.0 1 1
+netscape 3 2
+chrome30.0.0.0 35 5
+chrome43.0.2357.65 39 4
+blackberry 1 1
+safari6.0 16 3
+chrome17.0.940.0 1 1
+firefox7.0.1 2 2
+chrome32.0.1700.107 117 23
+chrome43.0.2357.130 749 118
+chrome35.0.1916.114 1 1
+msie11.0 7 7
+chrome18.0.1025.133 1 1
+chrome36.0.1985.143 562 113
+chrome10.0.649.0 1 1
+mozilla 26 26
+netscape5.0 1 1
+chrome35.0.1916.153 30 6
+firefox14.0.1 10 10
+firefox6.0 1 1
+chrome22.0.1229.94 7 4
+firefox3.6.3 2 2
+firefox36.0 17 4
+firefox35.0 20 20
+safari 6 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla 20150623201948
+Mozilla/5.0_(compatible;_Owler/0.4;__;_) 20150615070955
+Python-urllib/3.4 20150619084842
+Mozilla/5.0_(compatible;_PageAnalyzer/1.5;) 20150630094648
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20150609114525
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20150608170238
+NerdyBot 20150630111239
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Python-urllib/3.4 20150619084842
+NerdyBot 20150630111239
+Java/1.7.0_09 20150608221314
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 247 258
+From1 0 0
+From2 6 8
+From3 56 56
+From4 382 2593
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 6 8
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 13
+http://100dollars-seo.com/try.php 26 26
+http://buttons-for-your-website.com 8 8
+http://fincalavioleta.com 7 7
+https://www.facebook.com 3 3
+http://best-seo-offer.com/try.php 3 3
+http://success-seo.com/try.php 2 2
+http://semaltmedia.com 1 1
+http://videos-for-your-business.com 1 1
+http://buttons-for-website.com 1 1
+http://l.facebook.com/lsr.php 1 1
+http://fincalavioleta.com 1 1
+http://www.fosterstudios.org/portafolio.php 1 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+pulsolaboral.com 1
+http+%2f%2fpulsolaboral.com%2f 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+pulsolaboral.com 1
+http 1
+%2f%2fpulsolaboral.com%2f 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 548 210596
+206 60 42071139
+500 264 1140216
+301 41 13773
+404 59 224588
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 35
+/img/texture/white-dot.png 1 http://pulsolaboral.com/template3/css/stylesheet.css
+/portafolios/14574Screenshot_2@2x.png 1 http://pulsolaboral.com/AndyJR
+/portafolios/17602Screenshot_3@2x.png 1 http://pulsolaboral.com/AndyJR
+/frontend/css/style2.css 1 -
+/wordpress/wp-login.php 3 -
+/styles/actions/users/form.css 1 http://pulsolaboral.com/styles/actions/users/form.css
+/img/logo-white@2x.png 1 http://pulsolaboral.com/AndyJR
+/skins/blue/blue.css 1 -
+/frontend/images/flags/2@2x.png 1 http://pulsolaboral.com/AndyJR
+/img/parallax/3.jpg 1 http://pulsolaboral.com/template3/css/stylesheet.css
+/blog/feed 2 -
+/frontend/css/font-awesome.min.css 1 -
+/frontend/css/style.css 1 -
+/login/img/social/facebook-long.png 1 -
+/wp-admin/wp-login.php 3 -
+/rss/blog 2 -
+/admin/wp-login.php 3 -
+/blog/rss 2 -
+/frontend/css/styleswitcher.css 1 -
+/img/texture/black-dot.png 1 http://pulsolaboral.com/template3/css/stylesheet.css
+/blogs/rss 2 -
+/wp/wp-login.php 3 -
+/blog/rss.xml 2 -
+/section/wp-login.php 3 -
+/facturacion/login 2 -
+/portafolios/12738Screenshot_1@2x.png 1 http://pulsolaboral.com/AndyJR
+/rss/blogs 2 -
+/frontend/css/bootstrap.min.css 1 -
+/cms/wp-login.php 3 -
+/img/logopulso3@2x.png 1 http://pulsolaboral.com/AndyJR
+/blogs/feed 2 -
+/blog/wp-login.php 3 -
+/img/parallax/1.jpg 1 http://pulsolaboral.com/template3/css/stylesheet.css
+/site/wp-login.php 3 -
+/photos/1914810264345_1600221180202965_5250443134596401295_n@2x.jpg 1 http://pulsolaboral.com/AndyJR
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 158
+188.143.234.155 47 47 389254 20150609181550
+181.67.120.93 38 194 7333179 20150629093317
+186.147.139.225 34 198 10159205 20150618230515
+190.156.55.23 31 136 7826435 20150630134128
+186.151.165.70 28 146 6302130 20150623201123
+181.209.246.250 25 86 4526398 20150614032106
+181.174.105.103 19 72 5036192 20150615152123
+186.30.129.32 14 74 5004800 20150622132332
+186.80.156.25 13 105 5626247 20150627132206
+173.0.27.53 13 13 107666 20150609061648
+117.135.241.75 13 13 107666 20150609180010
+107.152.186.218 13 13 107666 20150602234343
+208.91.115.10 12 24 2009580 20150627031529
+190.62.192.172 12 52 5449399 20150606012138
+167.114.172.225 12 12 253629 20150608170239
+69.58.178.57 11 11 248949 20150618072144
+64.79.100.22 8 8 66256 20150614034933
+181.139.157.162 7 46 3753706 20150624113955
+186.91.140.46 7 44 3654161 20150611163410
+181.135.249.53 7 52 4200653 20150627233727
+186.118.18.190 7 46 3740910 20150622120658
+204.101.161.3 7 13 2588836 20150622114453
+5.189.144.88 7 7 57974 20150611000706
+190.60.124.178 7 55 4719882 20150624125716
+186.29.128.131 7 44 3655226 20150623175813
+89.7.90.201 1 1 8282 20150628050439
+201.26.29.151 3 15 1167900 20150612205721
+83.47.2.192 3 15 1167900 20150603173752
+201.75.85.96 3 15 1167900 20150610144326
+104.197.104.224 1 1 8282 20150621111951
+201.14.252.112 3 15 1167900 20150606112042
+64.79.100.11 4 4 33128 20150608221314
+187.113.126.199 3 15 1167900 20150621155236
+104.197.96.213 1 1 8282 20150612112023
+146.148.71.176 1 1 8282 20150629112035
+195.3.144.117 2 2 16564 20150617114912
+87.17.177.136 3 15 1167900 20150604040830
+179.182.240.45 3 15 1167900 20150623082909
+66.249.89.123 0 1 3889 
+66.249.84.203 1 1 9881 20150616195807
+146.148.78.217 1 1 8282 20150606111933
+189.226.187.149 4 17 1128132 20150606130250
+66.249.83.167 0 1 2502 
+103.227.96.64 3 15 1167900 20150623050941
+23.236.52.148 1 1 8282 20150626111941
+161.10.215.71 4 25 1227126 20150606235142
+104.197.103.209 1 1 8282 20150623112010
+190.234.179.2 3 56 1654084 20150622141551
+104.154.60.224 1 1 8282 20150627111942
+66.102.8.247 0 3 6062 
+188.165.206.188 1 1 8282 20150620210838
+186.30.128.206 3 16 1105122 20150609195453
+200.103.84.243 3 15 1167900 20150607122137
+104.197.98.243 1 1 8282 20150614112025
+179.99.195.226 3 15 1167900 20150630172930
+190.39.95.190 1 1 8282 20150609180045
+191.53.224.66 3 15 1167900 20150623104325
+104.197.103.119 1 1 8282 20150615112009
+93.171.205.23 6 6 190961 20150605112920
+186.30.126.72 4 39 3614759 20150619125359
+79.39.19.3 3 15 1167900 20150623101608
+181.174.105.31 1 1 8282 20150618212604
+151.72.201.105 3 15 1167900 20150605134606
+104.197.100.75 1 1 8282 20150618112004
+177.192.140.191 3 15 1167900 20150609160658
+66.249.83.173 0 1 1058 
+189.114.160.231 3 15 1167900 20150630091836
+167.0.75.129 3 15 1167900 20150608182108
+201.152.44.176 3 16 1119850 20150603165725
+81.193.123.57 3 15 1167900 20150622124857
+186.237.48.180 1 7 418272 20150613124541
+179.234.21.191 3 15 1167900 20150628123740
+62.210.37.113 1 1 8282 20150607142746
+103.3.83.145 2 13 459569 20150602014040
+109.79.207.18 3 15 1167900 20150622120621
+105.106.48.123 3 15 1167900 20150629081736
+104.197.108.217 2 2 16564 20150613112029
+94.131.14.10 3 3 24846 20150618205253
+104.197.98.196 1 1 8282 20150602111948
+66.102.8.237 0 2 2116 
+104.197.105.158 1 1 8282 20150610111921
+177.236.201.107 1 11 427952 20150609003811
+189.18.110.202 3 15 1167900 20150628202449
+117.212.139.252 3 15 1167900 20150626080427
+151.62.154.208 3 15 1167900 20150628182857
+146.148.77.46 1 1 8282 20150601111956
+189.34.128.231 3 15 1167900 20150619091427
+104.197.110.5 1 1 8282 20150622112009
+5.189.144.124 3 3 24846 20150630094648
+190.143.148.209 5 35 4989066 20150618005129
+179.180.108.203 3 15 1167900 20150628084057
+190.93.145.130 4 39 3614761 20150626114622
+104.197.64.31 1 1 8282 20150609010629
+179.7.69.63 4 39 3614761 20150627130811
+177.252.129.148 0 2 186709 
+78.29.130.125 3 15 1167900 20150627153031
+95.232.16.10 3 15 1167900 20150621201003
+190.25.106.253 4 39 3612256 20150602223442
+187.74.244.142 3 15 1167900 20150630203013
+200.255.122.24 1 1 8282 20150622030038
+93.77.218.51 1 1 8282 20150629144410
+123.28.251.98 2 2 16564 20150630014239
+5.76.72.139 1 1 8282 20150610112852
+186.113.96.225 3 40 3637493 20150624114002
+198.178.124.47 1 1 8282 20150627034744
+91.121.100.66 1 1 8282 20150628130121
+120.151.241.4 3 15 1167900 20150601000303
+36.83.156.220 1 1 8282 20150626212706
+66.249.80.68 4 20 1728570 20150623101626
+200.165.216.48 3 15 1167900 20150623144801
+195.154.168.128 1 1 8282 20150616172447
+107.178.212.118 1 1 8282 20150605112027
+181.209.246.112 1 1 8360 20150615002102
+186.81.193.221 4 40 3618189 20150630092639
+104.154.93.96 1 1 8282 20150630111239
+54.183.153.209 5 5 41410 20150615070955
+148.240.245.218 3 55 1648853 20150623101227
+199.217.117.90 2 2 16564 20150618192301
+183.221.220.128 1 1 8282 20150609061632
+104.154.55.154 1 1 8282 20150603112004
+93.39.85.29 3 15 1167900 20150628110534
+200.102.19.220 3 15 1167900 20150629130737
+104.197.108.125 1 1 8282 20150616112022
+78.158.11.226 2 2 16564 20150609114525
+104.197.96.163 2 2 16564 20150624112155
+186.3.191.248 3 15 1167900 20150606171805
+104.154.72.97 1 1 8282 20150625111956
+52.7.70.202 1 1 8282 20150619084842
+178.116.165.49 3 15 1167900 20150608183610
+190.62.193.184 6 41 3760792 20150607155942
+54.87.111.169 1 1 8282 20150622105050
+151.19.107.175 3 15 1167900 20150602114741
+70.70.214.224 3 15 1167900 20150601194204
+66.102.8.242 2 3 19066 20150612131039
+179.5.55.121 1 4 157228 20150607001616
+179.234.222.123 3 15 1167900 20150608171128
+54.166.1.231 1 1 8282 20150604223244
+70.53.248.202 3 15 1167900 20150622162047
+190.144.41.118 2 43 2562793 20150617125739
+177.207.85.52 3 15 1167900 20150614173854
+91.217.90.38 1 1 8282 20150611215008
+200.222.194.32 3 15 1167900 20150608185920
+130.211.170.226 1 1 8282 20150604111957
+46.150.97.69 1 1 8282 20150629144415
+76.169.230.247 1 1 8282 20150612073317
+186.87.30.31 3 13 503614 20150625012449
+201.68.187.242 3 15 1167900 20150621183842
+179.110.207.61 4 16 1176182 20150612181936
+110.44.102.2 3 15 1167900 20150619195556
+104.154.75.142 1 1 8282 20150628112017
+75.130.143.229 3 15 1167900 20150612063428
+194.8.213.42 1 1 8282 20150609061702
+104.197.100.102 1 1 8282 20150617112008
+66.249.80.76 2 15 369058 20150623101700
+66.249.80.60 4 12 806541 20150623101211
+104.197.109.253 1 1 8282 20150620112059
+104.154.71.57 1 1 8282 20150609112150
+5.170.211.231 3 15 1167900 20150627173904
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20150601 12 36 2385492 5
+20150602 23 81 5355673 17
+20150603 8 33 2304314 4
+20150604 9 24 1695141 5
+20150605 15 56 3067452 4
+20150606 27 125 10148739 6
+20150607 12 62 5102484 5
+20150608 33 84 7053080 8
+20150609 87 122 3363534 14
+20150610 6 18 1192746 4
+20150611 11 48 3687289 5
+20150612 18 80 5768246 8
+20150613 9 36 2052559 4
+20150614 47 209 11231785 8
+20150615 42 130 7590559 10
+20150616 22 125 4516849 6
+20150617 11 87 6218960 5
+20150618 36 108 8018541 10
+20150619 17 97 7202531 7
+20150620 2 2 16564 2
+20150621 10 46 3511982 4
+20150622 29 164 9572288 10
+20150623 36 212 12945916 12
+20150624 32 191 15496891 6
+20150625 4 14 511896 2
+20150626 9 56 4799225 4
+20150627 35 234 16296420 8
+20150628 18 78 5864346 8
+20150629 47 229 9880534 6
+20150630 24 128 9443494 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 13
+0s-30s 178
+2mn-5mn 10
+15mn-30mn 2
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 31
+/ 283 2344132 185 93
+/frontend/fonts/Montserrat-Regular.ttf 96 2756520 1 7
+/frontend/fonts/fontawesome-webfont.ttf 46 5616232 0 43
+/frontend/fonts/fontawesome-webfont.woff2 39 2157640 0 4
+/profesionales 36 4736491 0 14
+/login 30 298768 5 8
+/inicio 24 199456 2 10
+/planes 20 287258 1 5
+/perfil 19 988403 5 3
+/frontend/fonts/fontawesome-webfont.woff 10 715080 1 7
+/bienvenido 9 136803 0 1
+/admin/global/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff 7 355944 0 1
+/frontend/images/home-video.webm 7 4600386 0 1
+/empresas 7 69150 0 0
+/premium 6 75556 0 3
+/admin/global/plugins/font-awesome/fonts/fontawesome-webfont.woff 6 392712 0 1
+/empleos 6 59716 0 0
+/educacion 5 211652 1 0
+/visual 5 257588 0 0
+/experiencia 5 211357 0 0
+/habilidad 5 148009 0 0
+/configuracion 4 78944 0 0
+/registro 3 35753 0 2
+/reset/917351d65f6af1f3ca1e7116a88b1b1e466e903d 3 1353 2 0
+/portafolio 3 76125 0 0
+/administrator/index.php 1 8282 1 0
+/profesional 2 24861 0 0
+/AndyJR 1 53318 1 0
+/reset 1 13 0 1
+/template3/fonts/font-awesome/fonts/fontawesome-webfontba72.woff 1 44432 0 1
+/imprimir 1 18147 0 0
+END_SIDER

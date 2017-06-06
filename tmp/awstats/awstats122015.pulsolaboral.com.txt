@@ -1,0 +1,544 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201512 will be lost/reset.
+# Last config file used to build this data file was /home/pulsolaboral/tmp/awstats/awstats.pulsolaboral.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2683                
+POS_VISITOR 10293               
+POS_DAY 13867               
+POS_DOMAIN 3510                
+POS_LOGIN 4037                
+POS_ROBOT 4192                
+POS_WORMS 4811                
+POS_EMAILSENDER 4942                
+POS_EMAILRECEIVER 5085                
+POS_SESSION 14620               
+POS_SIDER 14811               
+POS_FILETYPES 5220                
+POS_DOWNLOADS 5515                
+POS_OS 5563                
+POS_BROWSER 5825                
+POS_SCREENSIZE 6862                
+POS_UNKNOWNREFERER 6936                
+POS_UNKNOWNREFERERBROWSER 7681                
+POS_ORIGIN 7959                
+POS_SEREFERRALS 8099                
+POS_PAGEREFS 8255                
+POS_SEARCHWORDS 8694                
+POS_KEYWORDS 8865                
+POS_MISC 2346                
+POS_ERRORS 8943                
+POS_CLUSTER 3893                
+POS_SIDER_404 9089                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160101023518 33 5823 10575710418930
+FirstTime 0
+LastTime 20151231110347
+LastUpdate 20160101070220 33 0 32 0 0
+TotalVisits 115                 
+TotalUnique 86                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 91                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 22 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 16564 65 101 806816
+1 9 41 2268058 23 43 1982994
+2 2 2 16564 40 65 581519
+3 10 23 1169542 67 109 3444502
+4 4 7 510677 42 66 1058032
+5 2 2 16564 49 67 1374398
+6 5 5 41410 57 80 1016320
+7 9 12 696512 103 132 1160606
+8 6 9 527241 31 54 242016
+9 17 42 4698748 54 80 3570652
+10 9 15 1021354 86 108 781965
+11 21 98 6159487 51 83 2800648
+12 4 4 177553 52 77 1293179
+13 13 64 3598334 67 99 427623
+14 27 143 9861273 64 105 1374883
+15 14 29 1731467 69 111 2123218
+16 21 60 3683272 52 86 4095227
+17 9 49 5081825 98 121 988018
+18 1 1 8282 38 62 922130
+19 8 9 875680 64 105 1164255
+20 79 85 1916844 67 94 1743560
+21 13 26 1202017 41 78 1139987
+22 31 32 586368 68 109 1382931
+23 25 34 1453613 78 100 2025942
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 22
+us 91 128 5858628
+ru 71 71 901154
+ca 40 67 6371686
+cl 36 36 317340
+mx 34 160 10930469
+co 30 229 16863330
+il 7 17 821235
+de 7 7 635673
+ua 4 4 33128
+br 4 16 1176182
+nl 3 3 24846
+pe 3 45 3277912
+ro 2 2 16564
+gb 2 2 16564
+lt 2 2 16564
+au 1 1 8282
+ch 1 1 8282
+eu 1 1 8282
+th 1 1 8282
+pl 1 1 8282
+cz 1 1 8282
+lu 1 1 8282
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bot[\s_+:,\.\;\/\\-] 938 16419993 20151231211544 408
+googlebot 209 8155583 20151231160932 45
+spider 84 1198975 20151231194416 0
+php 32 91991 20151231003616 0
+robot 25 275252 20151228093716 11
+slurp 17 57659 20151230160743 11
+unknown 14 336 20151227031926 14
+crawl 13 58118 20151225183205 6
+ia_archiver 6 193571 20151226143126 1
+no_user_agent 2 16564 20151221114040 0
+netcraft 2 8282 20151209220325 0
+googlebot\-image 1 5206 20151221084131 0
+[\s_+:,\.\;\/\\-]bot 1 3889 20151205010651 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 63 5386781 0 0
+png 194 9177804 0 0
+ttf 31 1056632 0 0
+woff2 6 283900 0 0
+woff 24 1670876 0 0
+php 3 24846 0 0
+html 195 1465908 0 0
+jpg 90 15538445 0 0
+js 105 8186574 0 0
+webm 1 1533462 0 0
+Unknown 83 2991476 0 0
+gif 1 2545 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+linuxandroid 1 1
+winxp 79 78
+macosx6 139 21
+winlong 2 2
+ios_iphone 103 26
+winnt 38 19
+linux 150 84
+win7 179 40
+macosx 27 14
+win8 2 2
+macosx9 1 1
+Unknown 45 45
+win8.1 28 9
+ios_ipad 1 1
+macosx7 1 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 53
+chrome44.0.2403.125 1 1
+msie6.0 70 70
+safari7.0 1 1
+chrome45.0.2454.85 1 1
+chrome40.0.2214.115 5 5
+chrome23.0.1271.64 1 1
+chrome34.0.1847.137 1 1
+chrome43.0.2357.124 1 1
+firefox26.0 3 1
+chrome38.0.2125.101 96 48
+lynx 2 2
+chrome31.0.1650.63 1 0
+safari5.0.2 1 1
+chrome47.0.2526.80 99 12
+msie7.0 3 3
+safari5.1.8 1 1
+chrome37.0.2062.120 8 8
+firefox41.0 5 5
+safari8.0 59 15
+msie9.0 14 14
+Unknown 7 7
+firefox11.0 1 1
+opera12.16 2 1
+firefox42.0 3 3
+firefox21.0 2 2
+chrome46.0.2490.71 1 1
+firefox38.0 1 1
+chrome41.0.2227.0 1 0
+firefox7.0.1 4 4
+chrome47.0.2526.73 25 6
+chrome46.0.2490.80 3 3
+msie11.0 4 3
+chrome18.0.1025.133 1 1
+chrome36.0.1985.143 15 3
+safari9.0 43 10
+firefox1.0 1 1
+chrome45.0.2454.101 1 1
+firefox39.0 2 2
+mozilla 35 22
+chrome47.0.2526.106 195 25
+firefox25.0 1 0
+chrome44.0.2403.157 1 0
+firefox14.0.1 11 11
+msie10.0 2 1
+firefox6.0 4 4
+chrome22.0.1229.94 7 4
+chrome46.0.2490.86 5 5
+firefox3.6.3 1 1
+safari6.1.1 1 0
+safari5.1.9 2 1
+safari8.0.3 16 3
+safari9.0.2 1 1
+safari 24 24
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Safari/11601.2.7.2_CFNetwork/760.1.2_Darwin/15.0.0_(x86_64) 20151215192434
+Safari/11601.3.9_CFNetwork/760.2.6_Darwin/15.2.0_(x86_64) 20151227205956
+Scrapy/1.0.3_(_http://scrapy.org) 20151205041632
+Python-urllib/2.7 20151216082150
+python-requests/2.9.0 20151220213007
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20151208073657
+Firefox 20151206213859
+}__test|O:21:\ 20151216085953
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20151209222936
+WhatsApp 20151204111320
+Safari/10601.2.7.2_CFNetwork/720.5.7_Darwin/14.5.0_(x86_64) 20151211154515
+Mozilla/4.0_(compatible;_Synapse) 20151218164417
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+WhatsApp 20151204111320
+Scrapy/1.0.3_(_http://scrapy.org) 20151205041632
+Python-urllib/2.7 20151216082150
+python-requests/2.9.0 20151220213007
+Firefox 20151206213859
+}__test|O:21:\ 20151216085953
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 214 223
+From1 0 0
+From2 7 11
+From3 27 27
+From4 95 535
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 7 11
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://scripted.com/pulsolaboral.com 14 14
+http://burger-imperia.com 4 4
+http://uptimechecker.com/pulsolaboral.com 3 3
+http://pizza-tycoon.com 1 1
+http://hvd-store.com 1 1
+http://hundejo.com 1 1
+http://buttons-for-website.com 1 1
+http://uptimebot.net/pulsolaboral.com 1 1
+http://meta.ua 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+pulsolaboral.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+pulsolaboral.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 359 136044
+206 8 9112679
+500 353 1524607
+404 44 185717
+301 5 1237
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 20
+/facturacion/login 1 -
+/img/texture/white-dot.png 2 http://pulsolaboral.com/template3/css/stylesheet.css
+/pais/Venezuela/9 2 http://www.pulsolaboral.com/
+/pais/Ecuador/3 2 http://www.pulsolaboral.com/
+/pais/Chile/10 3 -
+/pais/Espa%C3%B1a/4 2 http://www.pulsolaboral.com/
+/pais/Argentina/1 3 -
+/templates/system/css/error.css 1 -
+/pais/Uruguay/7 2 http://www.pulsolaboral.com/
+/wp-admin/admin-ajax.php 3 -
+/pais/Colombia/2 3 -
+/pais/Per%C3%BA/5 2 http://www.pulsolaboral.com/
+/img/parallax/3.jpg 2 http://pulsolaboral.com/template3/css/stylesheet.css
+/ajax/bz 1 -
+/frontend/images/flags/.png 5 -
+/pais/Mexico/8 2 http://www.pulsolaboral.com/
+/img/parallax/1.jpg 2 http://pulsolaboral.com/template3/css/stylesheet.css
+/img/texture/black-dot.png 2 http://pulsolaboral.com/template3/css/stylesheet.css
+/pais/Bolivia/6 2 http://www.pulsolaboral.com/
+/pais/Honduras/11 2 http://www.pulsolaboral.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 91
+188.143.232.70 64 64 834318 20151207203534
+207.102.138.158 28 55 6105601 20151230102615
+208.91.115.10 24 48 4019160 20151231110347
+186.82.136.239 19 135 9807150 20151229140807
+69.84.207.246 13 13 278508 20151204232333
+167.114.209.28 12 12 266085 20151209222937
+69.58.178.58 11 11 258906 20151217224352
+190.60.95.14 8 76 4627456 20151212114638
+201.222.167.214 6 6 52890 20151222161408
+201.222.182.39 6 6 52890 20151227205956
+82.80.249.154 6 7 198032 20151229132610
+201.222.180.23 6 6 52890 20151215192434
+201.222.188.35 6 6 52890 20151202212317
+187.237.14.219 6 46 5065261 20151203172345
+189.217.27.116 6 25 1141760 20151209163417
+45.33.61.138 6 6 0 20151225003243
+201.222.178.149 6 6 52890 20151211154515
+45.79.107.83 6 6 0 20151225133041
+201.222.161.2 6 6 52890 20151206223718
+187.232.193.18 5 24 1148208 20151225013610
+187.177.152.175 4 22 1123610 20151218161812
+198.199.106.12 4 4 33128 20151208060821
+200.95.170.201 3 16 1119850 20151203012717
+187.234.23.218 3 16 1119850 20151203213423
+181.51.213.29 3 16 1105122 20151228094006
+188.143.232.35 1 1 8282 20151209025401
+45.32.128.51 1 1 8282 20151230002016
+85.195.226.180 1 1 8282 20151220035607
+110.171.207.144 1 1 8282 20151213075627
+200.68.128.76 1 4 162033 20151221231006
+50.16.81.175 1 1 8282 20151211111846
+45.79.79.35 2 2 0 20151204210506
+52.0.89.236 1 1 8282 20151207162414
+66.249.88.39 1 1 8282 20151215164530
+62.212.73.49 1 1 8282 20151217030810
+181.140.95.43 0 1 661801 
+82.80.230.228 0 7 610827 
+104.156.231.254 1 1 8282 20151217101415
+144.130.132.45 1 1 8282 20151219195255
+144.76.153.198 1 1 152707 20151227122349
+82.80.249.214 1 1 8282 20151229132543
+93.179.68.167 1 1 8282 20151216085953
+195.28.183.88 1 1 8282 20151226024138
+66.230.230.230 1 1 8282 20151218080214
+107.155.70.207 1 1 8282 20151206213859
+104.238.180.234 1 1 8282 20151202182007
+45.32.129.200 1 1 8282 20151224035214
+104.207.150.177 1 1 8282 20151210165951
+66.249.83.69 1 1 8282 20151213161227
+95.24.150.172 1 1 8282 20151216082150
+188.143.232.10 2 2 20995 20151211145552
+78.46.156.169 1 1 152706 20151203134556
+179.32.85.233 0 1 661801 
+144.76.71.83 1 1 152707 20151218071647
+54.67.122.221 3 16 1119850 20151203035723
+200.95.170.84 1 1 8282 20151213201822
+69.163.208.11 1 1 8282 20151205155247
+78.158.11.226 2 2 16564 20151208073657
+190.234.105.253 0 1 661801 
+188.143.232.11 1 1 8282 20151213052545
+66.249.88.61 1 1 8282 20151214143507
+45.79.87.95 3 3 0 20151223233557
+89.34.26.111 1 1 8282 20151228054417
+195.242.80.40 2 2 16564 20151208075942
+85.10.210.199 1 1 8282 20151221142003
+188.143.232.19 1 1 12713 20151205212154
+179.217.108.52 3 15 1167900 20151207154524
+179.7.74.63 3 44 2616111 20151223135649
+187.210.247.25 2 2 16564 20151225201336
+206.54.185.34 1 1 8282 20151218171448
+212.117.180.21 1 1 8282 20151221063710
+46.39.83.131 2 2 16564 20151205145940
+144.76.155.8 1 1 152707 20151223193522
+66.249.88.50 1 1 8282 20151220142437
+46.167.245.172 1 1 8282 20151225102832
+188.166.83.235 1 1 8282 20151222034816
+40.115.184.93 1 1 8282 20151220230405
+104.45.149.158 1 1 8282 20151220213007
+173.208.215.234 1 1 8282 20151205041632
+217.147.85.214 1 1 8282 20151218164417
+201.144.174.17 1 2 8487 20151212222454
+187.237.14.222 2 2 16564 20151204111320
+82.80.249.143 0 2 4094 
+37.16.0.47 1 1 8282 20151225005104
+89.76.82.40 1 1 8282 20151219121735
+81.89.0.200 1 1 8282 20151212122336
+5.9.112.207 1 1 8282 20151228033932
+136.243.48.84 1 1 8282 20151215120824
+179.156.175.83 1 1 8282 20151208170113
+92.61.157.40 1 1 8282 20151222033959
+45.33.104.237 1 1 0 20151220114555
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20151202 10 14 1225368 3
+20151203 16 95 8577517 5
+20151204 17 17 295072 4
+20151205 5 5 45841 4
+20151206 13 19 1065962 4
+20151207 68 80 2010500 3
+20151208 9 9 74538 4
+20151209 22 44 1918522 4
+20151210 1 1 8282 1
+20151211 16 22 2671003 6
+20151212 11 82 5967827 4
+20151213 5 5 33128 5
+20151214 4 7 510677 2
+20151215 11 14 571849 4
+20151216 6 9 518959 4
+20151217 14 14 275470 4
+20151218 11 29 1301163 8
+20151219 2 2 16564 2
+20151220 10 13 535523 8
+20151221 5 8 178597 5
+20151222 8 8 69454 3
+20151223 12 59 3773608 6
+20151224 1 1 8282 1
+20151225 14 36 1683731 7
+20151226 1 1 8282 1
+20151227 7 7 205597 2
+20151228 8 24 1624081 4
+20151229 26 152 10628385 3
+20151230 7 13 1013072 3
+20151231 3 6 502395 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+0s-30s 106
+2mn-5mn 2
+15mn-30mn 1
+30s-2mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 31
+/ 195 1465908 99 76
+/frontend/fonts/Montserrat-Regular.ttf 29 812448 0 0
+/login 24 238630 6 2
+/frontend/fonts/fontawesome-webfont.woff 21 1501668 0 19
+/profesionales 14 2013891 5 6
+/frontend/fonts/fontawesome-webfont.woff2 6 283900 0 1
+/inicio 6 49692 0 1
+/empresas 6 59278 0 1
+/profesional 5 63000 2 2
+/planes 5 71973 0 0
+/premium 3 37560 0 0
+/registro 3 35753 0 1
+/index.php 3 24846 2 2
+/empleos 3 29633 0 0
+/AndyJR 2 106636 1 1
+/reset/cb1ffc3144034a2b09562ce62f554e75279d2654 2 902 0 0
+/frontend/fonts/fontawesome-webfont.ttf 2 244184 0 2
+/admin/global/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff 1 59324 0 0
+/educacion 1 42545 0 0
+/admin/global/plugins/font-awesome/fonts/fontawesome-webfont.woff 1 65452 0 0
+/perfil 1 51713 0 0
+/terminos 1 18892 0 0
+/visual 1 51488 0 0
+/reset 1 13 0 0
+/template3/fonts/font-awesome/fonts/fontawesome-webfontba72.woff 1 44432 0 0
+/experiencia 1 42336 0 0
+/imprimir 1 18112 0 1
+/frontend/images/home-video.webm 1 1533462 0 0
+/recuperar 1 266 0 0
+/habilidad 1 30129 0 0
+/portafolio 1 29034 0 0
+END_SIDER

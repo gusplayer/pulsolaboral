@@ -1,0 +1,53 @@
+head	1.3;
+access;
+symbols;
+locks
+	pulsolaboral:1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2015.04.20.15.36.25;	author pulsolaboral;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2015.04.15.03.43.30;	author pulsolaboral;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.04.07.04.04.30;	author pulsolaboral;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+ceo:262144000
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

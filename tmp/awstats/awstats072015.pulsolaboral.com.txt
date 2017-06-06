@@ -1,0 +1,909 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201507 will be lost/reset.
+# Last config file used to build this data file was /home/pulsolaboral/tmp/awstats/awstats.pulsolaboral.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2688                
+POS_VISITOR 23593               
+POS_DAY 31690               
+POS_DOMAIN 3553                
+POS_LOGIN 4356                
+POS_ROBOT 4511                
+POS_WORMS 5042                
+POS_EMAILSENDER 5173                
+POS_EMAILRECEIVER 5316                
+POS_SESSION 32532               
+POS_SIDER 32723               
+POS_FILETYPES 5451                
+POS_DOWNLOADS 5758                
+POS_OS 5806                
+POS_BROWSER 6086                
+POS_SCREENSIZE 7319                
+POS_UNKNOWNREFERER 7393                
+POS_UNKNOWNREFERERBROWSER 7914                
+POS_ORIGIN 8161                
+POS_SEREFERRALS 8304                
+POS_PAGEREFS 8470                
+POS_SEARCHWORDS 9173                
+POS_KEYWORDS 9325                
+POS_MISC 2351                
+POS_ERRORS 9384                
+POS_CLUSTER 4212                
+POS_SIDER_404 9552                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150801034252 787 181719 14201063240539
+FirstTime 0
+LastTime 20150731193918
+LastUpdate 20150801080242 787 0 786 0 0
+TotalVisits 202                 
+TotalUnique 182                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 206                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 52 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 24 73 4872476 42 62 1794254
+1 24 78 7301846 26 43 1896927
+2 10 39 2724908 46 56 2100554
+3 4 27 2621372 33 49 2185430
+4 6 30 2335800 19 20 242237
+5 1 1 8282 18 38 558177
+6 0 0 0 24 38 429508
+7 12 61 4608822 27 37 1815483
+8 21 84 6366741 37 53 182964
+9 25 101 9055909 12730 12827 9131963
+10 72 360 23101683 4595 4648 7303260
+11 38 84 4326694 59 79 478282
+12 73 517 22439771 57 92 5950670
+13 33 168 12029884 41 75 17278120
+14 11 60 3881164 62 77 2005569
+15 58 272 15269007 34 58 3394757
+16 22 135 9937356 35 45 3234148
+17 50 216 13847097 62 89 3976493
+18 34 188 15187620 79 99 2603702
+19 29 108 7845537 85 103 2753280
+20 29 129 9875108 27 34 143052
+21 53 101 4436864 61 85 1233154
+22 9 77 6572000 31 59 168170
+23 9 45 3503700 29 88 785729
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 37
+co 164 980 51045479
+br 139 684 52655023
+us 82 308 20619647
+il 30 63 3594281
+bo 30 178 10841352
+zz 29 41 1383232
+mx 18 109 7555267
+ar 18 108 8251113
+ca 17 41 6345572
+pt 12 60 4671600
+gt 11 37 548547
+ru 10 13 549628
+fr 7 19 1201028
+de 7 7 192419
+gr 6 30 2335800
+it 6 30 2335800
+gb 5 21 1666680
+hn 4 4 33128
+hu 4 16 1125598
+nl 4 16 1176182
+ua 3 3 24846
+eg 3 15 1167900
+ph 3 15 1167900
+ec 3 15 1167900
+sa 3 15 1167900
+ba 1 1 8282
+id 3 15 1167900
+kh 3 15 1167900
+th 3 15 1167900
+lt 1 1 8282
+do 3 15 1167900
+at 3 15 1167900
+vn 2 2 16564
+pl 3 15 1167900
+nz 3 15 1167900
+se 1 1 8282
+pe 3 16 1109109
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bot[\s_+:,\.\;\/\\-] 414 4887918 20150731213308 118
+googlebot 153 4699836 20150731120415 39
+php 114 409049 20150731203751 0
+spider 104 861328 20150731152659 0
+unknown 22 528 20150731193917 22
+robot 19 208265 20150730120227 7
+crawl 10 41506 20150731185929 4
+slurp 9 60608 20150728004655 3
+ia_archiver 4 16612 20150706064906 2
+netcraft 3 16564 20150710221012 0
+no_user_agent 2 16564 20150713083003 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+eot 5 243068 0 0
+css 271 20717770 0 0
+png 1304 64857079 0 0
+ttf 190 12621860 0 0
+woff 21 1196948 0 0
+woff2 26 1249160 0 0
+html 241 1971944 0 0
+js 458 33605934 0 0
+jpg 267 45046811 0 0
+webm 3 3066924 0 0
+Unknown 161 7566967 0 0
+gif 7 5176 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+linuxandroid 13 3
+blackberry 1 1
+winlong 6 3
+macosx6 1 0
+macintosh 1 1
+winxp 17 9
+ios_iphone 51 19
+macosx9 8 6
+win8 79 16
+macosx7 2 2
+linux 450 89
+win7 1989 402
+macosx 17 4
+Unknown 39 39
+win8.1 248 47
+macosx8 32 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 64
+msie6.0 2 2
+chrome44.0.2403.125 265 38
+chrome10.0.602.0 1 1
+chrome32.0.1700.72 4 0
+firefox26.0 14 7
+chrome40.0.2214.111 1 1
+chrome39.0.2171.95 2 2
+firefox34.0 2 2
+lynx 1 1
+chrome31.0.1650.63 14 6
+safari7.0.1 1 1
+msie11 2 2
+msie8.0 5 1
+chrome27.0.1453.93 1 1
+msie7.0 3 3
+chrome37.0.2062.120 6 6
+w3c_validator 1 1
+netscape 2 2
+opera12.16 2 0
+firefox29.0 2 2
+safari6.0 16 4
+firefox38.0 16 3
+firefox7.0.1 1 1
+chrome32.0.1700.107 90 18
+safari6.0.5 2 0
+chrome36.0.1985.143 921 184
+firefox33.0 2 2
+firefox25.0 2 2
+mozilla 4 4
+firefox14.0.1 10 10
+chrome22.0.1229.94 14 8
+firefox3.6.3 1 1
+safari5.1.9 1 0
+firefox36.0 2 1
+safari6.1 1 0
+chrome43.0.2357.124 1 1
+android 13 3
+chrome12.0.742.91 2 2
+chrome32.0.1700.41 1 0
+chrome38.0.2125.101 24 12
+safari8.0.7 1 1
+iphone 2 0
+chrome43.0.2357.81 37 11
+safari8.0 33 15
+msie9.0 1 1
+Unknown 31 31
+firefox27.0 1 1
+firefox11.0 4 0
+firefox32.0 1 1
+blackberry 1 1
+firefox17.0 21 5
+chrome41.0.2227.0 2 1
+chrome28.0.1500.71 2 2
+chrome43.0.2357.132 147 23
+chrome43.0.2357.130 172 29
+chrome44.0.2403.107 40 12
+msie11.0 45 16
+firefox39.0 493 67
+firefox1.0 1 1
+chrome35.0.1916.153 147 28
+firefox22.0 1 1
+msie10.0 42 11
+firefox6.0 2 2
+chrome43.0.2357.134 272 52
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla 20150731193918
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20150716030410
+Mozilla/5.0_(compatible) 20150717214634
+com.apple.WebKit.WebContent/10600.7.12_CFNetwork/720.4.4_Darwin/14.4.0_(x86_64) 20150717100649
+Jakarta_Commons-HttpClient/3.1 20150720001656
+Mozilla/5.0_(compatible;_PageAnalyzer/1.5;) 20150707010726
+W3C_Validator/1.3_http://validator.w3.org/services 20150728010228
+NerdyBot 20150731110338
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Jakarta_Commons-HttpClient/3.1 20150720001656
+com.apple.WebKit.WebContent/10600.7.12_CFNetwork/720.4.4_Darwin/14.4.0_(x86_64) 20150717100649
+NerdyBot 20150731110338
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 133 175
+From1 0 0
+From2 4 4
+From3 105 105
+From4 405 2670
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 3 3
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 17
+http://fincalavioleta.com 38 38
+http://success-seo.com/try.php 28 28
+http://buttons-for-website.com 10 10
+http://gustavo.pulsolaboral.com 6 6
+https://www.facebook.com 5 5
+http://videos-for-your-business.com 4 4
+http://hvd-store.com 2 2
+http://hundejo.com 2 2
+http://burger-imperia.com 2 2
+http://m.facebook.com/l.php 1 1
+http://jkevin.pulsolaboral.com 1 1
+http://m.facebook.com 1 1
+http://pablo.pulsolaboral.com 1 1
+http://l.facebook.com/l.php 1 1
+http://javimitre.pulsolaboral.com 1 1
+http://pepex.pulsolaboral.com 1 1
+http://gufac.pulsolaboral.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 8822 3550956
+206 73 51623115
+405 1 4319
+500 202 583065
+301 8134 2960668
+404 716 1572116
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 239
+/pais/Chile/profesionales 1 -
+/pais/Espa%C3%B1a/pais/Colombia/2 4 http://pulsolaboral.com/pais/Espa%C3%B1a/4/
+/pais/Uruguay/pais/Chile/10 4 http://pulsolaboral.com/pais/Uruguay/7/
+/pais/Colombia/login 1 -
+/pais/Per%C3%BA/pais/Ecuador/3 4 http://pulsolaboral.com/pais/Per%C3%BA/5/
+/pais/Chile/pais/Uruguay/7 4 http://pulsolaboral.com/pais/Chile/10/
+/pais/Mexico/pais/Venezuela/9 4 http://pulsolaboral.com/pais/Mexico/8/
+/pais/Espa%C3%B1a/frontend/js/vendor.min.js 4 http://pulsolaboral.com/pais/Espa%C3%B1a/4/
+/pais/Uruguay/pais/Per%C3%BA/5 4 http://pulsolaboral.com/pais/Uruguay/7/
+/pais/Venezuela/pais/Mexico/8 4 http://pulsolaboral.com/pais/Venezuela/9/
+/pais/Espa%C3%B1a/pais/Mexico/8 4 http://pulsolaboral.com/pais/Espa%C3%B1a/4/
+/pais/Ecuador/pais/Argentina/1 4 http://pulsolaboral.com/pais/Ecuador/3/
+/pais/Bolivia/pais/Argentina/1 4 http://pulsolaboral.com/pais/Bolivia/6/
+/pais/Bolivia/pais/Honduras/11 4 http://pulsolaboral.com/pais/Bolivia/6/
+/pais/Bolivia/profesionales 1 -
+/pais/Colombia/empresas 1 -
+/pais/Argentina/login 1 -
+/pais/Espa%C3%B1a/pais/Venezuela/9 4 http://pulsolaboral.com/pais/Espa%C3%B1a/4/
+/pais/Colombia/pais/Venezuela/9 4 http://pulsolaboral.com/pais/Colombia/2/
+/pais/Uruguay/frontend/js/vendor.min.js 4 http://pulsolaboral.com/pais/Uruguay/7/
+/pais/Venezuela/pais/Uruguay/7 4 http://pulsolaboral.com/pais/Venezuela/9/
+/frontend/css/font-awesome.min.css 1 -
+/pais/Per%C3%BA/pais/Argentina/1 4 http://pulsolaboral.com/pais/Per%C3%BA/5/
+/pais/Venezuela/planes 1 -
+/admin/wp-login.php 6 -
+/pais/Bolivia/6 1 -
+/pais/Espa%C3%B1a/pais/Per%C3%BA/5 4 http://pulsolaboral.com/pais/Espa%C3%B1a/4/
+/pais/Per%C3%BA/pais/Mexico/8 4 http://pulsolaboral.com/pais/Per%C3%BA/5/
+/pais/Bolivia/pais/Bolivia/6 4 http://pulsolaboral.com/pais/Bolivia/6/
+/pais/Ecuador/pais/Honduras/11 4 http://pulsolaboral.com/pais/Ecuador/3/
+/pais/Honduras/pais/Mexico/8 4 http://pulsolaboral.com/pais/Honduras/11/
+/pais/Chile/10 1 -
+/pais/Uruguay/planes 1 -
+/wp-content/plugins/reflex-gallery/readme.txt 1 -
+/pais/Argentina/empresas 1 -
+/pais/Colombia/profesionales 1 -
+/pais/Colombia/frontend/js/vendor.min.js 4 http://pulsolaboral.com/pais/Colombia/2/
+/pais/Venezuela/pais/Honduras/11 4 http://pulsolaboral.com/pais/Venezuela/9/
+/cms/wp-login.php 6 -
+/pais/Chile/frontend/js/app.min.js 4 http://pulsolaboral.com/pais/Chile/10/
+/pais/Mexico/inicio 1 -
+/pais/Ecuador/planes 1 -
+/pais/Venezuela/pais/Bolivia/6 4 http://pulsolaboral.com/pais/Venezuela/9/
+/pais/Colombia/2 1 -
+/pais/Colombia/pais/Ecuador/3 4 http://pulsolaboral.com/pais/Colombia/2/
+/pais/Honduras/pais/Argentina/1 4 http://pulsolaboral.com/pais/Honduras/11/
+/pais/Bolivia/frontend/js/app.min.js 4 http://pulsolaboral.com/pais/Bolivia/6/
+/pais/Per%C3%BA/profesionales 1 -
+/pais/Venezuela/pais/Venezuela/9 4 http://pulsolaboral.com/pais/Venezuela/9/
+/pais/Argentina/pais/Venezuela/9 4 http://pulsolaboral.com/pais/Argentina/1/
+/img/texture/white-dot.png 2 http://pulsolaboral.com/template3/css/stylesheet.css
+/pais/Ecuador/login 1 -
+/pais/Uruguay/pais/Colombia/2 4 http://pulsolaboral.com/pais/Uruguay/7/
+/pais/Bolivia/pais/Espa%C3%B1a/4 4 http://pulsolaboral.com/pais/Bolivia/6/
+/pais/Ecuador/3 1 -
+/pais/Espa%C3%B1a/inicio 1 -
+/frontend/js/bootstrap.min.js 1 -
+/pais/Espa%C3%B1a/pais/Chile/10 4 http://pulsolaboral.com/pais/Espa%C3%B1a/4/
+/pais/Chile/pais/Bolivia/6 4 http://pulsolaboral.com/pais/Chile/10/
+/pais/Chile/pais/Argentina/1 4 http://pulsolaboral.com/pais/Chile/10/
+/pais/Ecuador/pais/Ecuador/3 4 http://pulsolaboral.com/pais/Ecuador/3/
+/pais/Bolivia/pais/Colombia/2 4 http://pulsolaboral.com/pais/Bolivia/6/
+/frontend/js/scripts.js 1 -
+/img/logo.png 2 http://pulsolaboral.com/pepex
+/pais/Colombia/pais/Chile/10 4 http://pulsolaboral.com/pais/Colombia/2/
+/pais/Bolivia/pais/Mexico/8 4 http://pulsolaboral.com/pais/Bolivia/6/
+/pais/Uruguay/pais/Argentina/1 4 http://pulsolaboral.com/pais/Uruguay/7/
+/pais/Chile/planes 1 -
+/pais/Chile/pais/Honduras/11 4 http://pulsolaboral.com/pais/Chile/10/
+/pais/Per%C3%BA/empresas 1 -
+/pais/Bolivia/empresas 1 -
+/pais/Argentina/pais/Ecuador/3 4 http://pulsolaboral.com/pais/Argentina/1/
+/pais/Per%C3%BA/pais/Per%C3%BA/5 4 http://pulsolaboral.com/pais/Per%C3%BA/5/
+/pais/Argentina/pais/Honduras/11 4 http://pulsolaboral.com/pais/Argentina/1/
+/pais/Ecuador/frontend/js/app.min.js 4 http://pulsolaboral.com/pais/Ecuador/3/
+/pais/Uruguay/pais/Venezuela/9 4 http://pulsolaboral.com/pais/Uruguay/7/
+/pais/Colombia/pais/Colombia/2 4 http://pulsolaboral.com/pais/Colombia/2/
+/pais/Uruguay/pais/Uruguay/7 4 http://pulsolaboral.com/pais/Uruguay/7/
+/section/wp-login.php 6 -
+/pais/Ecuador/pais/Colombia/2 4 http://pulsolaboral.com/pais/Ecuador/3/
+/pais/Espa%C3%B1a/empresas 1 -
+/media/index.html 1 http://search.mail.com/web
+/pais/Mexico/pais/Mexico/8 4 http://pulsolaboral.com/pais/Mexico/8/
+/pais/Espa%C3%B1a/profesionales 1 -
+/pais/Venezuela/pais/Ecuador/3 4 http://pulsolaboral.com/pais/Venezuela/9/
+/pais/Mexico/profesionales 1 -
+/pais/Uruguay/7 1 -
+/pais/Argentina/pais/Colombia/2 4 http://pulsolaboral.com/pais/Argentina/1/
+/pais/Uruguay/login 1 -
+/pais/Mexico/pais/Uruguay/7 4 http://pulsolaboral.com/pais/Mexico/8/
+/pais/Honduras/pais/Venezuela/9 4 http://pulsolaboral.com/pais/Honduras/11/
+/pais/Argentina/pais/Bolivia/6 4 http://pulsolaboral.com/pais/Argentina/1/
+/pais/Honduras/frontend/js/app.min.js 4 http://pulsolaboral.com/pais/Honduras/11/
+/pais/Per%C3%BA/login 1 -
+/pais/Per%C3%BA/5 1 -
+/pais/Venezuela/profesionales 1 -
+/pais/Venezuela/pais/Per%C3%BA/5 4 http://pulsolaboral.com/pais/Venezuela/9/
+/pais/Espa%C3%B1a/frontend/js/app.min.js 4 http://pulsolaboral.com/pais/Espa%C3%B1a/4/
+/pais/Ecuador/pais/Per%C3%BA/5 4 http://pulsolaboral.com/pais/Ecuador/3/
+/pais/Espa%C3%B1a/pais/Honduras/11 4 http://pulsolaboral.com/pais/Espa%C3%B1a/4/
+/frontend/js/app.js 1 -
+/pais/Colombia/frontend/js/app.min.js 4 http://pulsolaboral.com/pais/Colombia/2/
+/pais/Mexico/empresas 1 -
+/img/parallax/1.jpg 2 http://pulsolaboral.com/template3/css/stylesheet.css
+/pais/Bolivia/pais/Per%C3%BA/5 4 http://pulsolaboral.com/pais/Bolivia/6/
+/pais/Mexico/pais/Bolivia/6 4 http://pulsolaboral.com/pais/Mexico/8/
+/pais/Bolivia/pais/Ecuador/3 4 http://pulsolaboral.com/pais/Bolivia/6/
+/frontend/js/jquery.tweet.min.js 1 -
+/pais/Argentina/pais/Uruguay/7 4 http://pulsolaboral.com/pais/Argentina/1/
+/pais/Per%C3%BA/pais/Colombia/2 4 http://pulsolaboral.com/pais/Per%C3%BA/5/
+/pais/Uruguay/pais/Honduras/11 4 http://pulsolaboral.com/pais/Uruguay/7/
+/pais/Ecuador/pais/Chile/10 4 http://pulsolaboral.com/pais/Ecuador/3/
+/pais/Espa%C3%B1a/planes 1 -
+/pais/Mexico/pais/Ecuador/3 4 http://pulsolaboral.com/pais/Mexico/8/
+/pais/Chile/inicio 1 -
+/pais/Espa%C3%B1a/4 1 -
+/pais/Honduras/frontend/js/vendor.min.js 4 http://pulsolaboral.com/pais/Honduras/11/
+/pais/Honduras/pais/Bolivia/6 4 http://pulsolaboral.com/pais/Honduras/11/
+/frontend/css/style2.css 1 -
+/pais/Mexico/pais/Argentina/1 4 http://pulsolaboral.com/pais/Mexico/8/
+/wordpress/wp-login.php 6 -
+/pais/Honduras/pais/Per%C3%BA/5 4 http://pulsolaboral.com/pais/Honduras/11/
+/pais/Uruguay/inicio 1 -
+/pais/Espa%C3%B1a/pais/Argentina/1 4 http://pulsolaboral.com/pais/Espa%C3%B1a/4/
+/pais/Espa%C3%B1a/pais/Bolivia/6 4 http://pulsolaboral.com/pais/Espa%C3%B1a/4/
+/pais/Argentina/profesionales 1 -
+/pais/Venezuela/pais/Espa%C3%B1a/4 4 http://pulsolaboral.com/pais/Venezuela/9/
+/pais/Honduras/pais/Ecuador/3 4 http://pulsolaboral.com/pais/Honduras/11/
+/pais/Chile/pais/Per%C3%BA/5 4 http://pulsolaboral.com/pais/Chile/10/
+/pais/Mexico/pais/Colombia/2 4 http://pulsolaboral.com/pais/Mexico/8/
+/img/parallax/3.jpg 2 http://pulsolaboral.com/template3/css/stylesheet.css
+/pais/Uruguay/pais/Mexico/8 4 http://pulsolaboral.com/pais/Uruguay/7/
+/pais/Mexico/pais/Chile/10 4 http://pulsolaboral.com/pais/Mexico/8/
+/pais/Per%C3%BA/frontend/js/vendor.min.js 4 http://pulsolaboral.com/pais/Per%C3%BA/5/
+/pais/Chile/frontend/js/vendor.min.js 4 http://pulsolaboral.com/pais/Chile/10/
+/frontend/js/waypoints.min.js 1 -
+/pais/Per%C3%BA/pais/Uruguay/7 4 http://pulsolaboral.com/pais/Per%C3%BA/5/
+/pais/Per%C3%BA/pais/Honduras/11 4 http://pulsolaboral.com/pais/Per%C3%BA/5/
+/pais/Per%C3%BA/pais/Bolivia/6 4 http://pulsolaboral.com/pais/Per%C3%BA/5/
+/pais/Colombia/pais/Espa%C3%B1a/4 4 http://pulsolaboral.com/pais/Colombia/2/
+/wp-admin/wp-login.php 6 -
+/pais/Espa%C3%B1a/pais/Uruguay/7 4 http://pulsolaboral.com/pais/Espa%C3%B1a/4/
+/img/texture/black-dot.png 5 http://pulsolaboral.com/template3/css/stylesheet.css
+/pais/Chile/login 1 -
+/pais/Mexico/frontend/js/vendor.min.js 4 http://pulsolaboral.com/pais/Mexico/8/
+/pais/Argentina/inicio 1 -
+/pais/Ecuador/pais/Espa%C3%B1a/4 4 http://pulsolaboral.com/pais/Ecuador/3/
+/pais/Argentina/pais/Argentina/1 4 http://pulsolaboral.com/pais/Argentina/1/
+/pais/Honduras/inicio 1 -
+/pais/Espa%C3%B1a/pais/Ecuador/3 4 http://pulsolaboral.com/pais/Espa%C3%B1a/4/
+/pais/Chile/pais/Mexico/8 4 http://pulsolaboral.com/pais/Chile/10/
+/pais/Chile/pais/Venezuela/9 4 http://pulsolaboral.com/pais/Chile/10/
+/pais/Honduras/planes 1 -
+/frontend/css/bootstrap.min.css 1 -
+/pais/Venezuela/empresas 1 -
+/pais/Bolivia/pais/Chile/10 4 http://pulsolaboral.com/pais/Bolivia/6/
+/pais/Uruguay/empresas 1 -
+/javascripts/modernizr.foundation.js 1 http://pulsolaboral.com/pepex
+/pais/Colombia/pais/Per%C3%BA/5 4 http://pulsolaboral.com/pais/Colombia/2/
+/pais/Venezuela/login 1 -
+/pais/Bolivia/planes 1 -
+/pais/Per%C3%BA/frontend/js/app.min.js 4 http://pulsolaboral.com/pais/Per%C3%BA/5/
+/pais/Mexico/planes 1 -
+/blog/wp-login.php 6 -
+/pais/Bolivia/inicio 1 -
+/pais/Espa%C3%B1a/login 1 -
+/pais/Colombia/pais/Bolivia/6 4 http://pulsolaboral.com/pais/Colombia/2/
+/pais/Venezuela/frontend/js/vendor.min.js 4 http://pulsolaboral.com/pais/Venezuela/9/
+/pais/Bolivia/pais/Uruguay/7 4 http://pulsolaboral.com/pais/Bolivia/6/
+/pais/Bolivia/login 1 -
+/pais/Honduras/pais/Chile/10 4 http://pulsolaboral.com/pais/Honduras/11/
+/site/wp-login.php 6 -
+/pais/Per%C3%BA/pais/Espa%C3%B1a/4 4 http://pulsolaboral.com/pais/Per%C3%BA/5/
+/pais/Argentina/frontend/js/vendor.min.js 4 http://pulsolaboral.com/pais/Argentina/1/
+/pais/Per%C3%BA/pais/Venezuela/9 4 http://pulsolaboral.com/pais/Per%C3%BA/5/
+/pais/Bolivia/frontend/js/vendor.min.js 4 http://pulsolaboral.com/pais/Bolivia/6/
+/pais/Mexico/frontend/js/app.min.js 4 http://pulsolaboral.com/pais/Mexico/8/
+/pais/Venezuela/9 1 -
+/pais/Colombia/pais/Argentina/1 4 http://pulsolaboral.com/pais/Colombia/2/
+/pais/Uruguay/pais/Espa%C3%B1a/4 4 http://pulsolaboral.com/pais/Uruguay/7/
+/frontend/js/jquery-2.1.0.min.js 1 -
+/pais/Mexico/login 1 -
+/pais/Ecuador/profesionales 1 -
+/mercado-laboral/142/nota-demo 1 -
+/pais/Chile/pais/Colombia/2 4 http://pulsolaboral.com/pais/Chile/10/
+/pais/Venezuela/frontend/js/app.min.js 4 http://pulsolaboral.com/pais/Venezuela/9/
+/pais/Mexico/pais/Honduras/11 4 http://pulsolaboral.com/pais/Mexico/8/
+/pais/Chile/pais/Ecuador/3 4 http://pulsolaboral.com/pais/Chile/10/
+/pais/Uruguay/profesionales 1 -
+/pais/Argentina/pais/Mexico/8 4 http://pulsolaboral.com/pais/Argentina/1/
+/pais/Chile/pais/Espa%C3%B1a/4 4 http://pulsolaboral.com/pais/Chile/10/
+/pais/Argentina/pais/Per%C3%BA/5 4 http://pulsolaboral.com/pais/Argentina/1/
+/pais/Ecuador/pais/Uruguay/7 4 http://pulsolaboral.com/pais/Ecuador/3/
+/pais/Venezuela/inicio 1 -
+/pais/Ecuador/pais/Mexico/8 4 http://pulsolaboral.com/pais/Ecuador/3/
+/frontend/css/style.css 1 -
+/pais/Mexico/8 1 -
+/pais/Honduras/pais/Honduras/11 4 http://pulsolaboral.com/pais/Honduras/11/
+/frontend/css/styleswitcher.css 1 -
+/pais/Per%C3%BA/pais/Chile/10 4 http://pulsolaboral.com/pais/Per%C3%BA/5/
+/pais/Argentina/planes 1 -
+/wp/wp-login.php 6 -
+/pais/Uruguay/frontend/js/app.min.js 4 http://pulsolaboral.com/pais/Uruguay/7/
+/mercado-laboral/82/recortan-brecha-salarios-minimos-en-mexico 1 -
+/pais/Argentina/pais/Chile/10 4 http://pulsolaboral.com/pais/Argentina/1/
+/pais/Honduras/empresas 1 -
+/pais/Colombia/planes 1 -
+/pais/Honduras/profesionales 1 -
+/pais/Colombia/pais/Uruguay/7 4 http://pulsolaboral.com/pais/Colombia/2/
+/pais/Venezuela/pais/Argentina/1 4 http://pulsolaboral.com/pais/Venezuela/9/
+/pais/Ecuador/frontend/js/vendor.min.js 4 http://pulsolaboral.com/pais/Ecuador/3/
+/pais/Colombia/inicio 1 -
+/pais/Espa%C3%B1a/pais/Espa%C3%B1a/4 4 http://pulsolaboral.com/pais/Espa%C3%B1a/4/
+/pais/Uruguay/pais/Bolivia/6 4 http://pulsolaboral.com/pais/Uruguay/7/
+/pais/Argentina/1 1 -
+/pais/Chile/pais/Chile/10 4 http://pulsolaboral.com/pais/Chile/10/
+/pais/Per%C3%BA/inicio 1 -
+/pais/Honduras/pais/Colombia/2 4 http://pulsolaboral.com/pais/Honduras/11/
+/pais/Ecuador/inicio 1 -
+/pais/Ecuador/pais/Venezuela/9 4 http://pulsolaboral.com/pais/Ecuador/3/
+/pais/Chile/empresas 1 -
+/pais/Venezuela/pais/Colombia/2 4 http://pulsolaboral.com/pais/Venezuela/9/
+/images/blue/icons/user.png 1 http://pulsolaboral.com/AndresDev
+/pais/Per%C3%BA/planes 1 -
+/pais/Argentina/pais/Espa%C3%B1a/4 4 http://pulsolaboral.com/pais/Argentina/1/
+/pais/Ecuador/empresas 1 -
+/pais/Honduras/pais/Espa%C3%B1a/4 4 http://pulsolaboral.com/pais/Honduras/11/
+/pais/Honduras/login 1 -
+/pais/Mexico/pais/Per%C3%BA/5 4 http://pulsolaboral.com/pais/Mexico/8/
+/pais/Ecuador/pais/Bolivia/6 4 http://pulsolaboral.com/pais/Ecuador/3/
+/pais/Mexico/pais/Espa%C3%B1a/4 4 http://pulsolaboral.com/pais/Mexico/8/
+/pais/Colombia/pais/Honduras/11 4 http://pulsolaboral.com/pais/Colombia/2/
+/pais/Colombia/pais/Mexico/8 4 http://pulsolaboral.com/pais/Colombia/2/
+/pais/Honduras/pais/Uruguay/7 4 http://pulsolaboral.com/pais/Honduras/11/
+/pais/Uruguay/pais/Ecuador/3 4 http://pulsolaboral.com/pais/Uruguay/7/
+/pais/Bolivia/pais/Venezuela/9 4 http://pulsolaboral.com/pais/Bolivia/6/
+/pais/Argentina/frontend/js/app.min.js 4 http://pulsolaboral.com/pais/Argentina/1/
+/pais/Venezuela/pais/Chile/10 4 http://pulsolaboral.com/pais/Venezuela/9/
+/pais/Honduras/11 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 206
+186.154.14.202 69 504 21414948 20150731173435
+190.129.127.200 30 178 10841352 20150713170510
+82.80.249.167 30 31 525981 20150717214636
+181.49.197.10 26 182 12923251 20150731184343
+186.87.30.31 20 114 6196253 20150717102949
+190.159.185.235 18 42 1792264 20150728123823
+64.135.100.98 16 93 7421490 20150702133838
+186.87.96.236 14 34 1172310 20150721095031
+201.252.106.151 11 75 5968402 20150718180512
+181.174.105.101 11 37 548547 20150716155940
+69.58.178.58 11 11 248926 20150718000615
+207.102.138.158 8 14 4172882 20150712092429
+208.91.115.10 6 12 1004790 20150721154612
+204.101.161.159 6 12 1004790 20150731024840
+66.229.78.77 6 43 3640824 20150702105107
+187.207.8.138 5 24 1133480 20150722134126
+187.192.11.178 5 41 3709930 20150725031119
+194.149.45.4 4 16 1125598 20150729193636
+64.79.100.56 4 4 33128 20150731193918
+190.105.134.7 4 4 33128 20150717100649
+190.2.97.177 4 18 1114811 20150707140457
+186.154.99.240 4 40 3701233 20150725162958
+186.154.29.229 4 17 1113404 20150714171220
+179.98.1.21 3 15 1167900 20150704152823
+179.192.206.136 3 15 1167900 20150701094509
+66.249.83.170 1 1 9881 20150717130328
+64.71.205.212 1 1 8282 20150718155748
+91.121.179.219 1 1 8282 20150714092618
+200.187.90.19 2 2 16564 20150714170935
+104.197.103.28 1 1 8282 20150707111449
+82.80.249.219 0 2 67950 
+188.40.112.210 1 1 142727 20150717172424
+94.70.103.161 3 15 1167900 20150709174153
+146.148.63.233 1 1 8282 20150718105622
+84.91.97.64 3 15 1167900 20150704120555
+191.58.228.170 3 15 1167900 20150726200812
+188.250.236.132 3 15 1167900 20150723172321
+104.197.51.3 1 1 8282 20150731110338
+189.217.227.50 1 1 8282 20150709184135
+177.206.251.29 3 15 1167900 20150704165252
+52.0.89.236 1 1 8282 20150710201729
+189.24.70.11 1 4 401871 20150711212957
+189.33.187.16 3 15 1167900 20150711212048
+207.70.9.110 1 1 8282 20150717153150
+93.45.148.244 3 15 1167900 20150724085528
+95.133.238.56 1 1 8282 20150709184125
+82.80.249.225 0 1 1653 
+201.20.99.45 3 15 1167900 20150718184404
+188.40.123.141 3 3 24846 20150728010231
+187.61.194.17 3 15 1167900 20150706123834
+49.48.164.218 3 15 1167900 20150705125011
+112.211.86.230 3 15 1167900 20150714140112
+85.12.240.251 1 1 8282 20150704111927
+151.28.186.170 3 15 1167900 20150708160918
+66.249.83.167 0 1 1058 
+82.80.249.226 0 2 316302 
+201.78.128.108 3 15 1167900 20150703200758
+197.38.159.176 0 3 3893 
+186.216.206.87 3 15 1167900 20150717173357
+200.149.98.204 3 15 1167900 20150723084431
+189.189.121.105 1 12 430553 20150708142015
+85.17.132.245 1 1 8282 20150711192805
+162.222.179.177 1 1 8282 20150725110540
+202.67.40.50 2 5 158326 20150705130055
+198.204.253.98 1 1 8282 20150707105349
+187.10.198.22 3 15 1167900 20150728192651
+177.125.207.157 3 15 1167900 20150727010021
+189.12.249.34 3 15 1167900 20150729131808
+186.33.99.32 3 15 1167900 20150702231843
+66.102.8.247 0 1 2502 
+82.80.249.177 0 3 297676 
+190.233.254.15 3 16 1109109 20150702021330
+186.30.128.120 0 2 3560 
+37.187.7.74 1 1 8282 20150728114508
+187.111.143.33 1 4 401871 20150720192701
+64.71.195.30 1 1 8282 20150717133632
+201.149.4.28 3 16 1105122 20150720193014
+193.138.216.101 1 1 8282 20150727133506
+82.80.249.227 0 2 5411 
+23.251.154.0 1 1 8282 20150716105540
+177.125.59.2 3 15 1167900 20150704164224
+79.65.235.49 3 15 1167900 20150701200911
+130.211.188.117 1 1 8282 20150729110604
+82.80.249.216 0 2 2553 
+82.80.249.228 0 4 1529498 
+104.221.59.131 3 15 1167900 20150718094555
+186.205.148.36 3 15 1167900 20150727200616
+181.59.230.226 3 13 518012 20150730113217
+197.38.150.146 1 1 29016 20150730174210
+189.32.113.166 3 15 1167900 20150703231146
+191.23.12.189 3 15 1167900 20150726005259
+83.23.179.146 3 15 1167900 20150723143407
+66.249.83.173 0 1 2502 
+179.182.222.116 3 15 1167900 20150709182220
+104.197.95.221 1 1 8282 20150727110240
+190.106.122.54 3 15 1167900 20150722213607
+201.67.80.119 3 15 1167900 20150729171941
+191.241.76.250 3 15 1167900 20150724185032
+64.71.205.34 1 9 36964 20150713170407
+162.216.46.14 1 1 8282 20150709201849
+82.80.249.218 0 1 6612 
+104.197.108.217 1 1 8282 20150711105639
+190.24.98.90 3 16 1105122 20150730074559
+179.187.148.154 3 15 1167900 20150705115058
+188.4.227.190 3 15 1167900 20150726070812
+104.197.96.221 1 1 8282 20150724105616
+104.154.35.159 1 1 8282 20150717105806
+104.197.107.223 1 1 8282 20150708105551
+66.102.8.237 1 2 10939 20150701111059
+104.197.105.226 1 1 8282 20150706111952
+189.50.252.123 1 1 8282 20150710122833
+62.24.181.134 1 4 498379 20150701201841
+82.80.249.223 0 3 47146 
+177.21.246.190 3 15 1167900 20150721083152
+71.137.242.78 3 15 1167900 20150727005149
+179.126.54.19 3 15 1167900 20150716183316
+187.114.71.74 3 15 1167900 20150710151412
+82.80.249.178 0 2 588832 
+46.119.113.182 1 1 8282 20150701171630
+177.52.24.69 3 15 1167900 20150710224054
+5.189.144.124 1 1 8282 20150702215523
+62.210.140.73 1 1 8282 20150730205545
+88.168.174.41 3 15 1167900 20150727074728
+104.197.29.8 1 1 8282 20150715105608
+188.22.188.95 3 15 1167900 20150708092806
+197.38.151.22 0 1 6481 
+104.197.101.118 3 3 24846 20150712105631
+177.143.172.176 3 15 1167900 20150713185047
+107.139.82.42 1 1 8282 20150707193955
+187.65.13.81 3 15 1167900 20150729180023
+189.48.169.39 3 15 1167900 20150714200523
+104.197.103.166 1 1 8282 20150713105605
+94.41.165.223 2 2 16564 20150731123837
+191.242.161.141 3 15 1167900 20150726181702
+177.207.14.66 3 15 1167900 20150702073405
+191.32.25.254 3 15 1167900 20150712123512
+104.197.19.17 1 1 8282 20150722105653
+95.105.99.124 1 1 8282 20150727203133
+82.80.249.221 0 1 2601 
+108.129.171.148 3 15 1167900 20150724221454
+187.52.148.153 3 15 1167900 20150727193950
+104.197.17.185 1 1 8282 20150721105549
+197.38.141.213 0 2 251460 
+188.138.1.229 1 1 8282 20150717034731
+84.104.138.137 3 15 1167900 20150718043945
+179.215.116.65 3 15 1167900 20150718043326
+104.197.107.83 1 1 8282 20150710105550
+82.80.249.215 0 1 19639 
+108.20.251.216 3 16 1105122 20150706125045
+82.80.249.224 0 2 3005 
+209.128.92.213 2 2 16564 20150703174525
+64.231.101.36 3 15 1167900 20150702203002
+179.106.51.187 3 15 1167900 20150703161617
+5.189.144.88 2 2 16564 20150707010726
+181.59.192.47 3 16 1105122 20150729092903
+202.67.41.51 1 10 1009574 20150705130050
+199.217.117.90 1 1 8282 20150717083419
+152.250.240.183 3 15 1167900 20150729014028
+189.113.76.203 3 15 1167900 20150725111706
+189.164.85.77 3 15 1167900 20150706151626
+85.243.213.30 3 15 1167900 20150701173628
+78.158.11.226 1 1 8282 20150716030410
+5.100.158.2 1 1 0 20150720001656
+201.64.22.2 1 1 8282 20150724092608
+200.97.32.116 3 15 1167900 20150708220908
+197.38.146.54 1 5 20379 20150730174201
+203.176.143.20 3 15 1167900 20150704011725
+82.80.249.229 0 3 92017 
+104.154.69.78 1 1 8282 20150719110230
+177.207.122.230 3 15 1167900 20150709181456
+104.197.44.245 1 1 8282 20150714105548
+92.222.67.109 1 1 8282 20150701122608
+197.38.163.108 1 3 856671 20150730174210
+201.68.80.1 3 15 1167900 20150728005011
+104.197.53.42 1 1 8282 20150720105516
+104.197.105.42 1 1 8282 20150730110620
+146.148.89.13 1 1 8282 20150723105609
+91.217.90.38 1 1 8282 20150711051457
+179.192.2.230 3 15 1167900 20150714082342
+152.238.251.146 3 15 1167900 20150720231524
+104.197.109.119 1 1 8282 20150704112121
+89.154.39.172 3 15 1167900 20150729113218
+179.172.174.55 3 15 1167900 20150727202733
+200.125.227.184 3 15 1167900 20150722193004
+64.71.203.124 1 9 36964 20150713170407
+189.76.0.220 3 15 1167900 20150728095642
+104.197.97.222 1 1 8282 20150705111957
+179.233.229.175 3 15 1167900 20150722084950
+2.88.26.146 3 15 1167900 20150715184211
+85.94.157.77 1 1 8282 20150704111940
+176.77.13.237 3 6 491654 20150726191657
+27.74.159.19 2 2 16564 20150719084448
+177.190.69.162 3 15 1167900 20150706194525
+178.20.55.18 1 1 8282 20150728022556
+204.195.149.151 3 16 1109109 20150706131953
+54.157.33.144 1 1 8282 20150722155105
+122.61.82.147 3 15 1167900 20150707015918
+108.24.135.157 3 15 1167900 20150730205204
+82.80.249.222 0 2 80924 
+128.30.52.70 1 1 8282 20150728010228
+62.24.181.135 0 1 401 
+82.80.249.217 0 1 6481 
+187.75.11.205 1 12 430553 20150703164839
+186.224.156.9 3 15 1167900 20150709094220
+104.197.104.68 1 1 8282 20150709105602
+5.9.44.13 1 1 8282 20150709153811
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20150701 15 55 4045489 9
+20150702 36 199 15691687 8
+20150703 16 66 6037258 6
+20150704 18 78 5864346 8
+20150705 10 46 3511982 5
+20150706 16 80 5729773 6
+20150707 14 45 2821794 7
+20150708 11 60 3946095 5
+20150709 17 65 4713010 9
+20150710 12 49 3480496 6
+20150711 14 70 5486885 6
+20150712 8 23 3262623 3
+20150713 36 212 12091462 6
+20150714 17 66 4650232 7
+20150715 9 39 2310152 3
+20150716 16 54 1733011 4
+20150717 64 203 11185580 11
+20150718 26 84 5893374 8
+20150719 16 36 1188874 3
+20150720 9 37 2683175 5
+20150721 8 23 1686859 4
+20150722 16 71 4653744 6
+20150723 10 48 3515542 4
+20150724 11 47 3520264 5
+20150725 13 97 8587345 4
+20150726 18 72 5665649 6
+20150727 31 105 7526085 11
+20150728 21 59 3723471 10
+20150729 24 109 8078953 9
+20150730 18 100 7674198 9
+20150731 97 656 31190233 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 5
+15mn-30mn 6
+30s-2mn 5
+2mn-5mn 1
+0s-30s 185
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 35
+/ 241 1971944 191 83
+/frontend/fonts/Montserrat-Regular.ttf 113 3220776 2 5
+/frontend/fonts/fontawesome-webfont.ttf 77 9401084 1 73
+/profesionales 32 4340746 2 10
+/login 29 288319 4 7
+/frontend/fonts/fontawesome-webfont.woff2 26 1249160 0 3
+/perfil 20 1040311 0 1
+/visual 18 926996 0 1
+/inicio 15 124660 0 4
+/planes 9 129301 0 0
+/frontend/fonts/fontawesome-webfont.woff 8 572064 0 6
+/AndresDev 6 239125 0 0
+/admin/global/plugins/font-awesome/fonts/fontawesome-webfont.woff 5 261808 0 0
+/frontend/fonts/fontawesome-webfont.eot 5 243068 0 3
+/admin/global/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff 4 237296 0 0
+/reset 4 53 0 1
+/educacion 3 126844 0 0
+/registro 3 35755 0 2
+/reset/21c5938ffa14396b6ffd098332542cc6ef423286 3 1353 0 0
+/frontend/images/home-video.webm 3 3066924 0 1
+/habilidad 3 89616 0 0
+/empresas 3 29625 0 0
+/profesional 2 24863 0 0
+/reset/bf678f42311b3f0ed00ba50937f748c51a26da8b 2 902 2 1
+/experiencia 2 84002 0 0
+/reset/8024236e07dfd723712f769fb9bf9b13abdf925f 1 451 0 1
+/pepex 1 11022 0 0
+/template2/font/fontawesome-webfont.woff 1 29380 0 0
+/premium 1 12708 0 0
+/template4/fonts/font-awesome/fonts/fontawesome-webfontba72.woff 1 44432 0 0
+/template4/rs-plugin/font/revicons90c6.woff 1 7536 0 0
+/template3/fonts/font-awesome/fonts/fontawesome-webfontba72.woff 1 44432 0 0
+/empleos 2 19744 0 0
+/bienvenido 1 15204 0 0
+/portafolio 1 25367 0 0
+END_SIDER

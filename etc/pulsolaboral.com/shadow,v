@@ -1,0 +1,84 @@
+head	1.5;
+access;
+symbols;
+locks
+	pulsolaboral:1.5; strict;
+comment	@# @;
+
+
+1.5
+date	2015.04.20.15.36.25;	author pulsolaboral;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2015.04.15.03.43.30;	author pulsolaboral;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2015.04.15.03.43.30;	author pulsolaboral;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2015.04.07.04.04.30;	author pulsolaboral;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.04.07.04.04.30;	author pulsolaboral;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@contacto:$6$0hf5exawPxZhW8kF$QN.JYFpTeGLiPaJ8r8cMtcLjOBMXP/RtnaW7/KBTBJYNfCCQa.Bjt092Nk2pUbsGTeniHwlNfep1ViG2K6SjC1:16532::::::
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a1 1
+ceo:$6$yo20iNMYtN0PyFvN$MrnfHBioyBbY4G.wY3AJu86.wxOt1YxeYFQAAx12AuCQGQN506MxHf8Vv5o.gmFLSggERzTNM7scalajmwIyc.:16540::::::
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+contacto:$6$8Z6bAggNxVIHJML4$RQ31EKH4Y77az.48SuRZYDfeA2InbyPkElBDp7dkBLfyLYT8JM2CAGPGb5e7AujFzG0z73.OF7rRDowSu./UH0:16532::::::
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

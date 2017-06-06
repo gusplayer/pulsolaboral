@@ -1,0 +1,301 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201602 will be lost/reset.
+# Last config file used to build this data file was /home/pulsolaboral/tmp/awstats/awstats.pulsolaboral.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2695                
+POS_VISITOR 6870                
+POS_DAY 7562                
+POS_DOMAIN 3347                
+POS_LOGIN 3654                
+POS_ROBOT 3809                
+POS_WORMS 4182                
+POS_EMAILSENDER 4313                
+POS_EMAILRECEIVER 4456                
+POS_SESSION 7733                
+POS_SIDER 7891                
+POS_FILETYPES 4591                
+POS_DOWNLOADS 4849                
+POS_OS 4897                
+POS_BROWSER 5051                
+POS_SCREENSIZE 5341                
+POS_UNKNOWNREFERER 5415                
+POS_UNKNOWNREFERERBROWSER 5652                
+POS_ORIGIN 5734                
+POS_SEREFERRALS 5868                
+POS_PAGEREFS 6023                
+POS_SEARCHWORDS 6234                
+POS_KEYWORDS 6386                
+POS_MISC 2359                
+POS_ERRORS 6445                
+POS_CLUSTER 3510                
+POS_SIDER_404 6561                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160205062637 98 19599 9301110240540
+FirstTime 20160201004145
+LastTime 20160205011935
+LastUpdate 20160205071454 98 0 98 0 0
+TotalVisits 16                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 16                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 5 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 16 1105122 1 2 4622
+1 2 2 16564 7 12 38239
+2 0 0 0 9 14 64076
+3 1 1 8282 4 6 16948
+4 0 0 0 7 10 218788
+5 0 0 0 6 7 38255
+6 0 0 0 4 7 25274
+7 3 3 24846 4 5 25206
+8 0 0 0 2 3 8642
+9 0 0 0 5 7 31699
+10 1 1 8282 15 21 80701
+11 3 15 1102588 1 1 1533462
+12 1 1 8282 8 9 73361
+13 0 0 0 3 3 8954
+14 0 0 0 3 5 22002
+15 0 0 0 4 6 25230
+16 0 1 269531 4 5 18371
+17 6 32 1105122 27 32 1849394
+18 0 0 0 9 13 228783
+19 2 2 16564 10 13 113767
+20 0 0 0 3 6 22554
+21 9 12 555285 3 10 154747
+22 0 0 0 5 10 424748
+23 5 15 2016152 2 4 156982
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+co 11 59 4199016
+us 8 25 1893612
+cl 6 6 52890
+vn 6 6 49692
+de 3 3 24846
+ro 1 1 8282
+gb 1 1 8282
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bot[\s_+:,\.\;\/\\-] 84 695130 20160205023551 32
+googlebot 28 960862 20160205041449 8
+spider 17 140794 20160204194450 0
+slurp 4 180869 20160204204457 2
+robot 3 18931 20160205062637 2
+php 2 2190 20160203142333 0
+unknown 2 48 20160204031403 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 5 593360 0 0
+png 46 1859886 0 0
+ttf 5 116064 0 0
+woff 1 71508 0 0
+woff2 4 170340 0 0
+php 3 24846 0 0
+html 19 157358 0 0
+jpg 4 2069961 0 0
+js 10 980996 0 0
+webm 1 0 0 0
+Unknown 3 192301 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+macosx 18 5
+linuxandroid 1 0
+winxp 1 1
+ios_iphone 1 1
+Unknown 10 10
+linux 9 6
+win7 61 13
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome40.0.2214.115 1 1
+safari9.0 1 1
+mozilla 1 1
+chilkat 6 6
+chrome37.0.2062.120 1 1
+opera9.22 1 1
+firefox21.0 1 1
+safari6.0.3 1 1
+chrome38.0.2125.101 6 3
+chrome43.0.2357.134 1 1
+chrome47.0.2526.83 1 0
+safari 4 4
+chrome48.0.2564.97 76 15
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Safari/11601.3.9_CFNetwork/760.2.6_Darwin/15.2.0_(x86_64) 20160201211231
+Chilkat/1.0.0_(_http://www.chilkatsoft.com/ChilkatHttpUA.asp) 20160205011935
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 21 21
+From1 0 0
+From2 0 1
+From3 2 2
+From4 13 77
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://pizza-tycoon.com 1 1
+http://carlos.pulsolaboral.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 43 15500
+206 2 3066924
+500 21 90699
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 16
+186.147.139.225 8 44 3096428 20160204231219
+201.222.169.180 6 6 52890 20160201211231
+208.91.115.10 3 6 502395 20160202210800
+186.28.128.203 3 15 1102588 20160201115540
+50.138.246.215 3 16 1105122 20160201004149
+117.6.94.248 2 2 16564 20160203072449
+171.250.160.144 2 2 16564 20160205011935
+115.72.14.71 2 2 16564 20160203234214
+5.149.254.109 1 1 8282 20160202070601
+144.76.155.8 1 1 8282 20160202124334
+188.40.112.210 1 1 8282 20160202033208
+45.32.129.1 1 1 8282 20160202231303
+136.243.17.161 1 1 8282 20160204102456
+75.118.78.183 1 1 8282 20160204193016
+185.100.86.100 1 1 8282 20160202193654
+66.249.83.72 0 1 269531 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20160201 12 38 2530131 3
+20160202 8 11 543805 6
+20160203 4 4 33128 2
+20160204 10 46 3112992 4
+20160205 2 2 16564 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+0s-30s 15
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 19 157358 14 8
+/frontend/fonts/Montserrat-Regular.ttf 5 116064 1 0
+/frontend/fonts/fontawesome-webfont.woff2 4 170340 0 2
+/administrator/index.php 3 24846 0 3
+/login 2 19762 1 0
+/profesionales 1 172539 0 1
+/frontend/images/home-video.webm 1 0 0 1
+/frontend/fonts/fontawesome-webfont.woff 1 71508 0 1
+END_SIDER

@@ -1,0 +1,122 @@
+Return-path: <>
+Envelope-to: no-replay@pulsolaboral.com
+Delivery-date: Wed, 18 Nov 2015 18:14:53 -0500
+Received: from host.masclicks.com.mx ([50.28.25.42]:35806)
+	by vps.fosterapps.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.86)
+	id 1ZzBwC-0003rT-V8
+	for no-replay@pulsolaboral.com; Wed, 18 Nov 2015 18:14:53 -0500
+Received: from mailnull by host.masclicks.com.mx with local (Exim 4.86)
+	id 1ZzBvX-00042r-On
+	for no-replay@pulsolaboral.com; Wed, 18 Nov 2015 17:14:11 -0600
+X-Failed-Recipients: erik.hernandez@masclicks.com.mx
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@host.masclicks.com.mx>
+To: no-replay@pulsolaboral.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1447888451-eximdsn-1910541823
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ZzBvX-00042r-On@host.masclicks.com.mx>
+Date: Wed, 18 Nov 2015 17:14:11 -0600
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - host.masclicks.com.mx
+X-AntiAbuse: Original Domain - pulsolaboral.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - 
+X-Get-Message-Sender-Via: host.masclicks.com.mx: sender_ident via received_protocol == local: mailnull/primary_hostname/system user
+X-Authenticated-Sender: host.masclicks.com.mx: mailnull
+
+--1447888451-eximdsn-1910541823
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  erik.hernandez@masclicks.com.mx
+    host aspmx.l.google.com [74.125.201.27]
+    SMTP error from remote mail server after RCPT TO:<erik.hernandez@masclicks.com.mx>:
+    552-5.2.2 The email account that you tried to reach is over quota. Please direct
+    552-5.2.2 the recipient to
+    552 5.2.2  https://support.google.com/mail/answer/6558 r18si7486752igs.91 - gsmtp
+
+--1447888451-eximdsn-1910541823
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; host.masclicks.com.mx
+
+Action: failed
+Final-Recipient: rfc822;erik.hernandez@masclicks.com.mx
+Status: 5.0.0
+Remote-MTA: dns; aspmx.l.google.com
+Diagnostic-Code: smtp; 552-5.2.2 The email account that you tried to reach is over quota. Please direct
+ 552-5.2.2 the recipient to
+ 552 5.2.2  https://support.google.com/mail/answer/6558 r18si7486752igs.91 - gsmtp
+
+--1447888451-eximdsn-1910541823
+Content-type: message/rfc822
+
+Return-path: <no-replay@pulsolaboral.com>
+Received: from elpulsolaboralco by host.masclicks.com.mx with local (Exim 4.86)
+	(envelope-from <no-replay@pulsolaboral.com>)
+	id 1ZzBvX-00042f-46; Wed, 18 Nov 2015 17:14:11 -0600
+To: erik.hernandez@masclicks.com.mx
+Subject: Contacto generado desde el sitio
+Message-ID: <cf2055d5705fe90282fbe36e4e099165@elpulsolaboral.com.mx>
+Date: Wed, 18 Nov 2015 23:14:11 +0000
+From: El Pulso Laboral <no-replay@pulsolaboral.com>
+Cc: eric.guerrero@masclicks.com.mx
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-family: tahoma">
+=09
+=09<div style=3D"background: #1=
+7293B; border-bottom: 2px solid #0351A2; text-align:center; padding: 10px 0=
+">
+=09=09<img src=3D"http://elpulsolaboral.com.mx/publico/images/home/log=
+o-el-pulso.png" alt=3D"El Pulso Laboral"/>
+=09</div>
+
+=09<div style=
+=3D"padding: 20px; background: #fff; color: #333; overflow: auto;">
+
+  =
+      <h4>Se ha llenado un formulario desde el sitio web <span style=3D"col=
+or:#0351A2;">El Pulso Laboral</span></h4>
+
+        <p>A continuaci=
+=C3=B3n se muestran los datos del usuario: </p>
+        <ul>
+          =
+  <li style=3D"color:#0351A2;"><span style=3D"color: #333;"><b style=3D"dis=
+play: inline-block; width: 200px;">Nombre:</b> Demo</span></li>
+         =
+   <li style=3D"color:#0351A2;"><span style=3D"color: #333;"><b style=3D"di=
+splay: inline-block; width: 200px;">Correo:</b> uzziel.alonso@masclicks.com=
+.mx</span></li>
+            <li style=3D"color:#0351A2;"><span style=3D"c=
+olor: #333;"><b style=3D"display: inline-block; width: 200px;">Tel=C3=A9fon=
+o:</b> Demo</span></li>
+            <li style=3D"color:#0351A2;"><span st=
+yle=3D"color: #333;"><b style=3D"display: inline-block; width: 200px;">Mens=
+aje:</b> demo</span></li>
+        </ul>
+=09=09
+=09</div>
+
+=09<div=
+ style=3D"background: #17293B; color: #FFF; padding: 8px 0 5px; clear: both=
+;">
+=09=09<div style=3D"padding-top: 10px; border-top: 1px dashed #fff;">=
+
+=09=09=09<p style=3D"font-family: arial; margin: 0; text-align: center;"=
+>El Pulso Laboral - <span style=3D"font-size: 12px;"> Derechos Reservados 2=
+015</span></p>
+=09=09</div>
+=09</div>
+</div>
+
+--1447888451-eximdsn-1910541823--

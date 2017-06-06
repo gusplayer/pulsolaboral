@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+
+#preloader {
+	background-color: #ff8a3c;
+}
+.colored-text {
+	color: #ff8a3c;
+}
+.tp-banner a.btn1:hover {
+	border: 2px solid #ff8a3c;
+	background-color: #ff8a3c;
+}
+.tp-banner a.btn2 {
+	border: 2px solid #ff8a3c;
+	background-color: #ff8a3c;
+}
+.navbar-inverse {
+	background-color: #ff8a3c;
+}
+.section-heading .heading {
+	color: #ff8a3c;
+}
+.owl-theme .owl-controls .owl-page span {
+	background: #ff8a3c;
+}
+.education-timeline .programe {
+	color: #ff8a3c;
+}
+.education-timeline .education:hover .divider {
+	background-color: #ff8a3c;
+}
+.education-timeline .education:hover .duration {
+	color: #ff8a3c;
+}
+#process .items:hover {
+	background: #ff8a3c;
+}
+.work-experience-timeline .company-name {
+	color: #ff8a3c;
+}
+.work-experience-timeline .url a{
+	color: #ff8a3c;	
+}
+.work-experience-timeline .col-left:hover .arrow {
+	border-color: transparent #ff8a3c transparent transparent;
+}
+.work-experience-timeline .col-right:hover .arrow {
+	border-color: transparent transparent transparent #ff8a3c;
+}
+.work-experience-timeline .col-right:hover .duration, .work-experience-timeline .col-left:hover .duration {
+	color: #ff8a3c;
+}
+#services-carousel .items:hover .icon {
+	color: #ff8a3c;
+}
+#options ul li:hover a, #options ul li a.selected {
+	border: 2px solid #ff8a3c;
+	background-color: #ff8a3c;
+}
+.overlayzoom span.zoom {
+	background: rgb(248, 105, 35); /* RGBa with 0.6 opacity */
+	background: rgba(248, 105, 35, 0.7);
+}
+#video .play a:hover {
+	color: #ff8a3c;
+}
+#awards-carousel .items:hover .icon {
+	color: #ff8a3c;
+}
+#testimonials-carousel .items .emp-name {
+	color: #ff8a3c;
+}
+#contact {
+	background-color: #ff8a3c;
+}
+#contact .section-heading h1.icon-line i {
+	background: #ff8a3c;
+}
+#contact .contact-form .form button {
+	color: #ff8a3c;
+}
+#contact .contact-form .form button:hover {
+	background-color: #ff8a3c;
+}
+.social-icons ul li {
+	background-color: #ff8a3c;
+}
+#footer .desc i {
+	margin-bottom: 12px;
+	color: #ff8a3c;
+}
+.link-btn a {
+	background-color: #ff8a3c;
+	border: 4px solid #ff8a3c;
+}
+.link-btn a:hover {
+	border: 4px solid #ff8a3c;
+	color: #ff8a3c;
+}
+.link-btn-2 a {
+	background-color: #ff8a3c;
+	border: 4px solid #ff8a3c;
+}
+.link-btn-2 a:hover {
+	border: 4px solid #ff8a3c;
+	color: #ff8a3c;
+}
+.scrollup {
+	background-color: #ff8a3c;
+}
